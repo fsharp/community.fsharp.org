@@ -14,6 +14,22 @@ process_speakers([
     "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
 },
 {
+    "name":"Andrew Cherry",
+    "member": "kolektiv",
+    "location": "Brighton, UK",
+    "lat": 50.829598,
+    "lng": -0.132572,
+    "travel-zone": "Northern Europe",
+    "travel-distance": 1000,
+    "bio": "Architect/Developer/Consultant doing large scalable organisation architecture for money, and open source not for money.",
+    "talks": [
+        "Discovering Abstraction through Building Things",
+        "Uncommon Approaches to Web Programing with Functional Programming",
+        "Freya - Tutorials and Workshops"
+    ],
+    "tags": [ "web", "cloud", "distributed systems", "microservices", "graphs", "protocols", "servers" ]
+},
+{
     "name":"Eriawan Kusumawardhono",
     "member": "eriawan",
     "location": "Jakarta, DKI Jakarta, Indonesia",
