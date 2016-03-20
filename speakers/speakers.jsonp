@@ -27,7 +27,7 @@ process_speakers([
         "Uncommon Approaches to Web Programing with Functional Programming",
         "Freya - Tutorials and Workshops"
     ],
-    "tags": [ "web", "cloud", "distributed systems", "microservices", "graphs", "protocols", "servers" ]
+    "tags": [ "web", "distributed systems", "graphs", "protocols", "servers" ]
 },
 {
     "name":"Eriawan Kusumawardhono",
