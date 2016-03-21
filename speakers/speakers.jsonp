@@ -130,6 +130,18 @@ process_speakers([
     "tags": [ "scripting", "akka", "concurrency", "docker", "frp" ]
 },
 {
+    "name":"Ryan Riley",
+    "member": "panesofglass",
+    "location": "Manvel, TX, United States",
+    "lat": 29.48414,
+    "lng": -95.35076,
+    "travel-zone": "United States",
+    "travel-distance": 200,
+    "bio": "Engineer for Tachyus, OWIN instigator, contributor to Freya, Suave, and F# web tools, Community for F# creator",
+    "talks": [ "Domain Modeling with Types", "Relax and let the HTTP Machine do the Work", "F# on the Web", "A Brief History of OWIN" ],
+    "tags": [ "web", "freya", "owin", "domain model" ]
+},
+{
     "name":"Yan Cui",
     "member": "theburningmonk",
     "location": "London, United Kingdom",
