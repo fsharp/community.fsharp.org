@@ -54,6 +54,18 @@ process_speakers([
     "tags" : [ "ui", "cloud", "big data", "olap" ]
 },
 {
+    "name":"Jamie Dixon",
+    "member": "k_cieslak",
+    "location": "Cary, NC USA",
+    "lat": 35.77,
+    "lng":  -78.97,
+    "travel-zone": "Solar System",
+    "travel-distance": 747989354,
+    "bio": "Coder",
+    "talks": [ "The business case for F#", "Injecting F# into your line of business application", "ML on IoT"  ],
+    "tags": [ "machine learning", "enterprise development", "IoT" ]
+},
+{
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
     "location": "Lodz, Poland",
