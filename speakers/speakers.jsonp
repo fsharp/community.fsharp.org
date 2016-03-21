@@ -67,7 +67,20 @@ process_speakers([
         "Reach for the Cloud with F#, Azure and MBrace", 
         "Demystifying the Enigma",
         "Web development made easy with F# and Azure" ],
-    "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]},
+    "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]
+},
+{
+    "name":"Jamie Dixon",
+    "member": "jamie_dixon",
+    "location": "Cary, NC USA",
+    "lat": 35.77,
+    "lng":  -78.97,
+    "travel-zone": "Solar System",
+    "travel-distance": 747989354,
+    "bio": "Coder",
+    "talks": [ "The business case for F#", "Injecting F# into your line of business application", "ML on IoT" ],
+    "tags": [ "machine learning", "enterprise development", "IoT" ]
+},
 {
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
