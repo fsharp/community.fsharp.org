@@ -115,5 +115,21 @@ process_speakers([
         "F# in the real world", 
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
+},
+{
+    "name":"Isaac Abraham",
+    "member": "isaacabraham",
+    "location": "Fulda, Germany",
+    "lat": 50.555810,
+    "lng": 9.680845,
+    "travel-zone": "Germany",
+    "travel-distance": 500,
+    "bio": "Founder of Compositional IT, specialising in functional programming on the cloud.",
+    "talks": [ 
+        "F# - The Pit of Success", 
+        "Reach for the Cloud with F#, Azure and MBrace", 
+        "Demystifying the Enigma",
+        "Web development made easy with F# and Azure" ],
+    "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]
 }
 ]);
