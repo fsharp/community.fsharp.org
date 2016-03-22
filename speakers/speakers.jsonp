@@ -158,6 +158,21 @@ process_speakers([
     "tags": [ "web", "freya", "owin", "domain model" ]
 },
 {
+    "name":"Steffen Forkmann",
+    "member": "forki",
+    "location": "Essen, Germany",
+    "lat": 51.4370805,
+    "lng": 7.007169,
+    "travel-zone": "Germany",
+    "travel-distance": 200,
+    "bio": "I try to get better every day. Bioinformatician. Sailor. Creator of FAKE - F# Make and Paket. MVP for F#.",
+    "talks": [ 
+        "Intro to Paket", 
+        "Intro to FAKE", 
+        "F# intro" ],
+    "tags": [ "paket", "fake", "F#" ]
+},
+{
     "name":"Yan Cui",
     "member": "theburningmonk",
     "location": "London, United Kingdom",
