@@ -30,6 +30,22 @@ process_speakers([
     "tags": [ "web", "distributed systems", "graphs", "protocols", "servers" ]
 },
 {
+    "name":"Craig Stuntz",
+    "member": "craigstuntz",
+    "location": "Columbus, OH, USA",
+    "lat": 40.05,
+    "lng": -83.02,
+    "travel-zone": "Ohio, Southeast Michigan, other places by arrangement",
+    "travel-distance": 200,
+    "bio": "Consultant by day, language geek by night.",
+    "talks": [
+        "Programs that Write Programs: How Compilers Work",
+        "How to Use Real Computer Science in Your Day Job",
+        "The Limits of Testing and How to Exceed Them"
+    ],
+    "tags": [ "compilers", "formal methods", "security", "legacy code", "architecture", "testing" ]
+},
+{
     "name":"Edgar Sánchez",
     "member": "edgarsanchez",
     "location": "Quito, Ecuador",
