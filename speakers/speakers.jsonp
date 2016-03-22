@@ -46,7 +46,7 @@ process_speakers([
     "tags": [ "compilers", "formal methods", "security", "legacy code", "architecture", "testing" ]
 },
 {
-    "name":"Edgar Sánchez",
+    "name":"Edgar SÃ¡nchez",
     "member": "edgarsanchez",
     "location": "Quito, Ecuador",
     "lat": -0.195286,
@@ -96,6 +96,21 @@ process_speakers([
     "bio": "Coder",
     "talks": [ "The business case for F#", "Injecting F# into your line of business application", "ML on IoT" ],
     "tags": [ "machine learning", "enterprise development", "IoT" ]
+},
+{
+    "name":"Jérémie Chassaing",
+    "member": "thinkb4coding",
+    "location": "Paris, France",
+    "lat": 48.86206,
+    "lng": 2.343179,
+    "travel-zone": "France",
+    "travel-distance": 200,
+    "bio": "Software gardener",
+    "talks": [ 
+        "Functional Event Sourcing in F#", 
+        "If you're not live coding, you're dead coding", 
+        "Type providers in Continuous Integration" ],
+    "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 },
 {
     "name":"Krzysztof Cieslak",
@@ -182,24 +197,9 @@ process_speakers([
     "travel-distance": 200,
     "bio": "Functional guy living in an imperative world and polyglot programming believer",
     "talks": [ 
-        "7 ineffective coding habits many F# programmers don’t have", 
+        "7 ineffective coding habits many F# programmers donâ€™t have", 
         "F# in the real world", 
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
-},
-{
-    "name":"J�r�mie Chassaing",
-    "member": "thinkb4coding",
-    "location": "Paris, France",
-    "lat": 48.86206,
-    "lng": 2.343179,
-    "travel-zone": "France",
-    "travel-distance": 200,
-    "bio": "Software gardener",
-    "talks": [ 
-        "Functional Event Sourcing in F#", 
-        "If you're not live coding, you're dead coding", 
-        "Type providers in Continuous Integration" ],
-    "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 }
 ]);
