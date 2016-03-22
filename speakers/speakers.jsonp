@@ -158,21 +158,6 @@ process_speakers([
     "tags": [ "web", "freya", "owin", "domain model" ]
 },
 {
-    "name":"Yan Cui",
-    "member": "theburningmonk",
-    "location": "London, United Kingdom",
-    "lat": 51.464245,
-    "lng": -0.01486,
-    "travel-zone": "United Kingdom",
-    "travel-distance": 200,
-    "bio": "Functional guy living in an imperative world and polyglot programming believer",
-    "talks": [ 
-        "7 ineffective coding habits many F# programmers don’t have", 
-        "F# in the real world", 
-        "Taming cloud complexity with F# DSLs" ],
-    "tags": [ "dsl", "cloud", "distributed systems" ]
-},
-{
     "name":"Steffen Forkmann",
     "member": "forki",
     "location": "Essen, Germany",
@@ -186,5 +171,20 @@ process_speakers([
         "Intro to FAKE", 
         "F# intro" ],
     "tags": [ "paket", "fake", "F#" ]
+},
+{
+    "name":"Yan Cui",
+    "member": "theburningmonk",
+    "location": "London, United Kingdom",
+    "lat": 51.464245,
+    "lng": -0.01486,
+    "travel-zone": "United Kingdom",
+    "travel-distance": 200,
+    "bio": "Functional guy living in an imperative world and polyglot programming believer",
+    "talks": [ 
+        "7 ineffective coding habits many F# programmers don’t have", 
+        "F# in the real world", 
+        "Taming cloud complexity with F# DSLs" ],
+    "tags": [ "dsl", "cloud", "distributed systems" ]
 }
 ]);
