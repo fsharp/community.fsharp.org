@@ -137,6 +137,21 @@ process_speakers([
     "tags": [ "machine-learning", "hands-on" ]
 },
 {
+    "name":"Paulmichael Blasucci",
+    "member": "pblasucci",
+    "location": "Jersey City, NJ, United States",
+    "lat": 40.7273553,
+    "lng": -74.0489491,
+    "travel-zone": "United States",
+    "travel-distance": 4828,
+    "bio": "Thought-craft. Practised daily.",
+    "talks": [ 
+        "(Nearly) Everything you Ever Wanted to Know about Active Patterns (but Were Afraid to Ask", 
+        "For All Code, There Exist Properties to be Checked" 
+        "The Beating Heart of CQRS, or Actor-based Message Routing on the CLR" ],
+    "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
+},
+{
     "name":"Reed Copsey",
     "member": "reedcopsey",
     "location": "Bellingham, WA, United States",
