@@ -216,5 +216,5 @@ process_speakers([
         "F# in the real world", 
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
-},
+}
 ]);
