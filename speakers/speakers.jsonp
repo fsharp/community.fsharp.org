@@ -46,7 +46,7 @@ process_speakers([
     "tags": [ "compilers", "formal methods", "security", "legacy code", "architecture", "testing" ]
 },
 {
-    "name":"Edgar SÃ¡nchez",
+    "name":"Edgar S&aacute;nchez",
     "member": "edgarsanchez",
     "location": "Quito, Ecuador",
     "lat": -0.195286,
