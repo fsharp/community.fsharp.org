@@ -147,7 +147,7 @@ process_speakers([
     "bio": "Thought-craft. Practised daily.",
     "talks": [ 
         "(Nearly) Everything you Ever Wanted to Know about Active Patterns (but Were Afraid to Ask", 
-        "For All Code, There Exist Properties to be Checked" 
+        "For All Code, There Exist Properties to be Checked", 
         "The Beating Heart of CQRS, or Actor-based Message Routing on the CLR" ],
     "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
 },
