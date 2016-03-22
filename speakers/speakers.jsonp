@@ -186,5 +186,20 @@ process_speakers([
         "F# in the real world", 
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
+},
+{
+    "name":"Jérémie Chassaing",
+    "member": "thinkb4coding",
+    "location": "Paris, France",
+    "lat": 48.86206,
+    "lng": 2.343179,
+    "travel-zone": "France",
+    "travel-distance": 200,
+    "bio": "Software gardener",
+    "talks": [ 
+        "Functional Event Sourcing in F#", 
+        "If you're not live coding, you're dead coding", 
+        "Type providers in Continuous Integration" ],
+    "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 }
 ]);
