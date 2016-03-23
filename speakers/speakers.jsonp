@@ -113,6 +113,18 @@ process_speakers([
     "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 },
 {
+    "name":"Kevin Ashton",
+    "member": "ashtonkj",
+    "location": "Johannesburg, South Africa",
+    "lat": -26.143,
+    "lng":  28.000,
+    "travel-zone": "South Africa",
+    "travel-distance": 1000,
+    "bio": "Wondering software developer. C#, F#, polyglot. Web / Windows, etc.",
+    "talks": [ "Full Stack F# Web Development", "Introduction to F#"  ],
+    "tags": [  "enterprise development", "ui", "web" ]
+},
+{
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
     "location": "Lodz, Poland",
