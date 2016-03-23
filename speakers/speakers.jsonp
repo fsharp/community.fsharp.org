@@ -228,5 +228,20 @@ process_speakers([
         "F# in the real world", 
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
+},
+{
+    "name":"Tomas Jansson",
+    "member": "tomasjansson",
+    "location": "Oslo, Norway",
+    "lat": 59.942956,
+    "lng": 10.768345,
+    "travel-zone": "Nordic",
+    "travel-distance": 200,
+    "bio": "Developer that has experienced the pain of java, perl, abap and the like before finding the joy in F#",
+    "talks": [ 
+        "Functional web applications using F# and Suave", 
+        "Introduction to F#", 
+        "Introduction to FAKE" ],
+    "tags": [ "web", "suave", "fake" ]
 }
 ]);
