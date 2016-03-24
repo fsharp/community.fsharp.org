@@ -14,6 +14,20 @@ process_speakers([
     "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
 },
 {
+    "name":"Alfonso Garcia-Caro",
+    "member": "alfonsogarciacaro",
+    "location": "Madrid, Spain",
+    "lat": 40.427037,
+    "lng": -3.704149,
+    "travel-zone": "Spain",
+    "travel-distance": 600,
+    "bio": ".NET developer in love with Functional Programming thanks to F#. Creator of Fable, F# to JS compiler.",
+    "talks": [
+        "Fable, the compiler that emits JavaScript you can be proud of!",
+    ],
+    "tags": [ "web", "javascript", "node", "mobile" ]
+},
+{
     "name":"Andrew Cherry",
     "member": "kolektiv",
     "location": "Brighton, UK",
@@ -255,19 +269,5 @@ process_speakers([
         "F# in the real world",
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
-},
-{
-    "name":"Alfonso Garcia-Caro",
-    "member": "alfonsogarciacaro",
-    "location": "Madrid, Spain",
-    "lat": 40.427037,
-    "lng": -3.704149,
-    "travel-zone": "Spain",
-    "travel-distance": 600,
-    "bio": ".NET developer in love with Functional Programming thanks to F#. Creator of Fable, F# to JS compiler.",
-    "talks": [
-        "Fable, the compiler that emits JavaScript you can be proud of!",
-    ],
-    "tags": [ "web", "javascript", "node", "mobile" ]
 }
 ]);
