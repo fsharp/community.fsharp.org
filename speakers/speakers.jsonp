@@ -46,6 +46,18 @@ process_speakers([
     "tags": [ "compilers", "formal methods", "security", "legacy code", "architecture", "testing" ]
 },
 {
+    "name":"Dave Fancher",
+    "member": "davefancher",
+    "location": "Carmel, IN, USA",
+    "lat": 39.9752455,
+    "lng": -86.1109104,
+    "travel-zone": "Midwest and Central United States",
+    "travel-distance": 400,
+    "bio": "Consultant and trainer, Author of The Book of F#, Pluralsight Author, Microsoft MVP",
+    "talks": [ "Building F# Type Providers", "Break Free with Managed Functional Programming" ],
+    "tags": [ "web", "tooling", "clean code", "scripting" ]
+},
+{
     "name":"Edgar S&aacute;nchez",
     "member": "edgarsanchez",
     "location": "Quito, Ecuador",
