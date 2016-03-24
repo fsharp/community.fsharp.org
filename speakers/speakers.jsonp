@@ -90,9 +90,9 @@ process_speakers([
     "travel-zone": "Germany",
     "travel-distance": 500,
     "bio": "Founder of Compositional IT, specialising in functional programming on the cloud.",
-    "talks": [ 
-        "F# - The Pit of Success", 
-        "Reach for the Cloud with F#, Azure and MBrace", 
+    "talks": [
+        "F# - The Pit of Success",
+        "Reach for the Cloud with F#, Azure and MBrace",
         "Demystifying the Enigma",
         "Web development made easy with F# and Azure" ],
     "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]
@@ -118,9 +118,9 @@ process_speakers([
     "travel-zone": "France",
     "travel-distance": 200,
     "bio": "Software gardener",
-    "talks": [ 
-        "Functional Event Sourcing in F#", 
-        "If you're not live coding, you're dead coding", 
+    "talks": [
+        "Functional Event Sourcing in F#",
+        "If you're not live coding, you're dead coding",
         "Type providers in Continuous Integration" ],
     "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 },
@@ -169,9 +169,9 @@ process_speakers([
     "travel-zone": "United States",
     "travel-distance": 4828,
     "bio": "Thought-craft. Practised daily.",
-    "talks": [ 
-        "(Nearly) Everything you Ever Wanted to Know about Active Patterns (but Were Afraid to Ask", 
-        "For All Code, There Exist Properties to be Checked", 
+    "talks": [
+        "(Nearly) Everything you Ever Wanted to Know about Active Patterns (but Were Afraid to Ask",
+        "For All Code, There Exist Properties to be Checked",
         "The Beating Heart of CQRS, or Actor-based Message Routing on the CLR" ],
     "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
 },
@@ -220,9 +220,9 @@ process_speakers([
     "travel-zone": "Germany",
     "travel-distance": 200,
     "bio": "I try to get better every day. Bioinformatician. Sailor. Creator of FAKE - F# Make and Paket. MVP for F#.",
-    "talks": [ 
-        "Intro to Paket", 
-        "Intro to FAKE", 
+    "talks": [
+        "Intro to Paket",
+        "Intro to FAKE",
         "F# intro" ],
     "tags": [ "paket", "fake", "F#" ]
 },
@@ -235,9 +235,9 @@ process_speakers([
     "travel-zone": "Nordic",
     "travel-distance": 200,
     "bio": "Developer that has experienced the pain of java, perl, abap and the like before finding the joy in F#",
-    "talks": [ 
-        "Functional web applications using F# and Suave", 
-        "Introduction to F#", 
+    "talks": [
+        "Functional web applications using F# and Suave",
+        "Introduction to F#",
         "Introduction to FAKE" ],
     "tags": [ "web", "suave", "fake" ]
 },
@@ -250,10 +250,24 @@ process_speakers([
     "travel-zone": "United Kingdom",
     "travel-distance": 200,
     "bio": "Functional guy living in an imperative world and polyglot programming believer",
-    "talks": [ 
-        "7 ineffective coding habits many F# programmers donâ€™t have", 
-        "F# in the real world", 
+    "talks": [
+        "7 ineffective coding habits many F# programmers donâ€™t have",
+        "F# in the real world",
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
+},
+{
+    "name":"Alfonso Garcia-Caro",
+    "member": "alfonsogarciacaro",
+    "location": "Madrid, Spain",
+    "lat": 40.427037,
+    "lng": -3.704149,
+    "travel-zone": "Spain",
+    "travel-distance": 600,
+    "bio": ".NET developer in love with Functional Programming thanks to F#. Creator of Fable, F# to JS compiler.",
+    "talks": [
+        "Fable, the compiler that emits JavaScript you can be proud of!",
+    ],
+    "tags": [ "web", "javascript", "node", "mobile" ]
 }
 ]);
