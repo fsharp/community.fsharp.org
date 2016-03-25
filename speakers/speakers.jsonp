@@ -269,5 +269,17 @@ process_speakers([
         "F# in the real world",
         "Taming cloud complexity with F# DSLs" ],
     "tags": [ "dsl", "cloud", "distributed systems" ]
+},
+{
+    "name":"Yukitoshi Suzuki",
+    "member": "yukitos",
+    "location": "Tokyo, Japan",
+    "lat": 35.669609,
+    "lng": 139.734562,
+    "travel-zone": "Japan",
+    "travel-distance": 1500,
+    "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
+    "talks": [],
+    "tags": [ "fundamentals" ]
 }
 ]);
