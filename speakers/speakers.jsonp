@@ -31,6 +31,7 @@ process_speakers([
 {
     "name":"Andrew Cherry",
     "member": "kolektiv",
+    "twitter": "kolektiv",
     "location": "Brighton, UK",
     "lat": 50.829598,
     "lng": -0.132572,
@@ -47,6 +48,7 @@ process_speakers([
 {
     "name":"Craig Stuntz",
     "member": "craigstuntz",
+    "twitter": "craigstuntz",
     "location": "Columbus, OH, USA",
     "lat": 40.05,
     "lng": -83.02,
@@ -154,6 +156,7 @@ process_speakers([
 {
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
+    "twitter": "k_cieslak",
     "location": "Lodz, Poland",
     "lat": 51.75,
     "lng":  19.45,
