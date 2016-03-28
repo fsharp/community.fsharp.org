@@ -4,6 +4,7 @@ process_speakers([
 {
     "name":"Alena Hall",
     "member": "lenadroid",
+    "twitter": "lenadroid",
     "location": "Portland, OR, USA",
     "lat": 45.555228,
     "lng": -122.681600,
@@ -165,6 +166,7 @@ process_speakers([
 {
     "name":"Mathias Brandewinder",
     "member": "brandewinder",
+    "twitter": "brandewinder",    
     "location": "San Francisco, CA, United States",
     "lat": 37.7833,
     "lng": -122.4167,
@@ -192,6 +194,7 @@ process_speakers([
 {
     "name":"Reed Copsey",
     "member": "reedcopsey",
+    "twitter": "reedcopsey",    
     "location": "Bellingham, WA, United States",
     "lat": 48.7482375,
     "lng": -122.4792122,
