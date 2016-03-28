@@ -17,6 +17,7 @@ Please follow these guidelines when submitting a pull request:
     - Google Maps is recommended to determine coordinate.
     - Visit [Google Maps](https://www.google.com/maps), Zoom to your location, and click on the map where you live or work.
     - Copy latitude and longtiude from white box at the bottom of the screen.
+- "twitter" is optional, and only used to display a picture. Leave entry out if you don't want a picture.
 - For "travel-zone", enter a plain text description of the region where you will travel to speak ("Northern France")
 - For "travel-distance", enter the approximate distance (in _km_) you are willing to travel.
 - Please keep your biography brief.
@@ -32,6 +33,7 @@ Here is an example entry (showing portions of the entry before and after):
 {
     "name":"Reed Copsey",
     "member": "reedcopsey",
+    "twitter": "reedcopsey",    
     "location": "Bellingham, WA, United States",
     "lat": 48.7482375,
     "lng": -122.4792122,
