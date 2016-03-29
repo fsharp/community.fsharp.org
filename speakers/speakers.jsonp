@@ -142,6 +142,20 @@ process_speakers([
     "tags": [ "production", "distributed systems", "fun", "scripting", "event sourcing" ]
 },
 {
+    "name":"Jorge Fioranelli",
+    "member": "jorge",
+    "location": "NJ, USA",
+    "lat": 40.738694,
+    "lng": -74.027789,
+    "travel-zone": "USA",
+    "travel-distance": 1000,
+    "bio": "Jet.com Senior Engineer - http://fsharpworkshop.com - http://fsharpreactivepatterns.com",
+    "talks": [
+        "F# Intro Workshop",
+        "Five Reasons to Move from C# to F# " ],
+    "tags": [ "domain-driven design", "distributed systems", "cqrs", "event sourcing", "microservices", "introduction", "worskhop" ]
+},
+{
     "name":"Kevin Ashton",
     "member": "ashtonkj",
     "location": "Johannesburg, South Africa",
