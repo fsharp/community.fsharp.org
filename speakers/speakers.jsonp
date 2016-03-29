@@ -195,6 +195,25 @@ process_speakers([
     "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
 },
 {
+    "name":"Rachel Reese",
+    "member": "rachelreese",
+    "twitter": "rachelreese",
+    "location": "Jersey City, NJ, United States",
+    "lat": 40.7273553,
+    "lng": -74.0489491,
+    "travel-zone": "Earth",
+    "travel-distance": ,
+    "bio": "Sr. Software Engineer & F# trainer/evangelist for Jet.com",
+    "talks": [
+                "Is Functional Programming just a fad?", 
+                "Chaos Testing at Jet with F# and Azure",
+                "Patterns and practices for real-world event-driven microservices",
+                "Building Reactive Services using Functional Programming",
+                "iOS App Development with Xamarin and F#"
+             ],
+    "tags": [ "microservices", "big data", "reactive services", "xamarin" ]
+},
+{
     "name":"Reed Copsey",
     "member": "reedcopsey",
     "twitter": "reedcopsey",    
