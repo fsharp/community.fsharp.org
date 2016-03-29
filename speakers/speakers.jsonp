@@ -89,6 +89,7 @@ process_speakers([
 {
     "name":"Eriawan Kusumawardhono",
     "member": "eriawan",
+    "twitter": "erikuma",
     "location": "Jakarta, DKI Jakarta, Indonesia",
     "lat": -6.2295712,
     "lng": 106.759478,
@@ -143,7 +144,8 @@ process_speakers([
 },
 {
     "name":"Jorge Fioranelli",
-    "member": "jorge",
+    "member": "jorgefioranelli",
+    "twitter": "jorgefioranelli",
     "location": "NJ, USA",
     "lat": 40.738694,
     "lng": -74.027789,
@@ -158,6 +160,7 @@ process_speakers([
 {
     "name":"Kevin Ashton",
     "member": "ashtonkj",
+    "twitter": "ashtonkj",
     "location": "Johannesburg, South Africa",
     "lat": -26.143,
     "lng":  28.000,
@@ -243,6 +246,7 @@ process_speakers([
 {
     "name":"Riccardo Terrell",
     "member": "rikace",
+    "twitter": "TRikace",
     "location": "Washington DC, DC, United States",
     "lat": 38.9047,
     "lng": -77.0164,
