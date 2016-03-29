@@ -202,7 +202,7 @@ process_speakers([
     "lat": 40.7273553,
     "lng": -74.0489491,
     "travel-zone": "Earth",
-    "travel-distance": ,
+    "travel-distance": 10000,
     "bio": "Sr. Software Engineer & F# trainer/evangelist for Jet.com",
     "talks": [
                 "Is Functional Programming just a fad?", 
