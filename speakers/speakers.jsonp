@@ -2,6 +2,19 @@
 // https://github.com/fsharp/community.fsharp.org/blob/gh-pages/SPEAKERS.md
 process_speakers([
 {
+    "name": "Adam Granicz",
+    "member": "granicz",
+    "twitter": "granicz",    
+    "location": "Budapest, Hungary",
+    "lat": 47.485451,
+    "lng": 19.07154,
+    "travel-zone": "World-wide",
+    "travel-distance": 20000,
+    "bio": "CEO of IntelliFactory, 6x F# MVP, and coauthor of Expert F# 4.0",
+    "talks": [ "Markup-driven, type-safe, reactive web applications", "Building F# microservices and reactive UIs with WebSharper", "Functional, reactive web applications", "Ultra-efficient functional web development in F# using WebSharper", "Taking F# to the masses with CloudSharper"],
+    "tags": [ "web", "reactive", "frp", "microservices", "websharper"]
+},
+{
     "name":"Alena Hall",
     "member": "lenadroid",
     "twitter": "lenadroid",
