@@ -113,6 +113,22 @@ process_speakers([
     "tags" : [ "ui", "cloud", "big data", "olap" ]
 },
 {
+    "name":"Felienne Hermans",
+    "member": "felienne",
+    "twitter": "Felienne",
+    "location": "Rotterdam, the Netherlands",
+    "lat": 51.9237,
+    "lng": 4.470097,
+    "travel-zone": "World-wide",
+    "travel-distance": 20000,
+    "bio": "Felienne is assistant professor at Delft University of Technology, where the researches the world's most popular programming language: Excel. She is passionate about programming education for non-devs: her MOOC on programming in Excel on edX has been followed by almost 100.000 people so far, and she teaching a bunch of kids programming and robots every Saturday in a local community center. She is also one of the founders of the Rotterdam based developer's conference Joy of Coding.",
+    "talks": [
+        "Programming by Calculation",
+        "Using F# and genetic programming to play computer bridge",
+        "A board game night wtih geeks (SAT solving in F#" ],
+    "tags": [ "program derivation", "DSLs", "games" ]
+},
+{
     "name":"Isaac Abraham",
     "member": "isaac",
     "location": "Fulda, Germany",
@@ -329,6 +345,7 @@ process_speakers([
 {
     "name":"Yukitoshi Suzuki",
     "member": "yukitos",
+    "twitter": "yukitos",
     "location": "Tokyo, Japan",
     "lat": 35.669609,
     "lng": 139.734562,
@@ -337,21 +354,5 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
-},
-{
-    "name":"Felienne Hermans",
-    "member": "Felienne",
-    "location": "Rotterdam, the Netherlands",
-    "lat": 51.9237,
-    "lng": 4.470097,
-    "travel-zone": "World-wide",
-    "travel-distance": 20000,
-    "bio": "Felienne is assistant professor at Delft University of Technology, where the researches the world's most popular programming language: Excel. She is passionate about programming education for non-devs: her MOOC on programming in Excel on edX has been followed by almost 100.000 people so far, and she teaching a bunch of kids programming and robots every Saturday in a local community center. She is also one of the founders of the Rotterdam based developer's conference Joy of Coding.",
-    "talks": [
-        "Programming by Calculation",
-        "Using F# and genetic programming to play computer bridge",
-        "A board game night wtih geeks (SAT solving in F#" ],
-    "tags": [ "program derivation", "DSLs", "games" ]
 }
-
 ]);
