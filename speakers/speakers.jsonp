@@ -59,6 +59,23 @@ process_speakers([
     "tags": [ "web", "distributed systems", "graphs", "protocols", "servers" ]
 },
 {
+    "name":"Anthony Brown",
+    "member":"bruinbrown",
+    "twitter":"bruinbrown93",
+    "location":"London, United Kingdom",
+    "lat": 51.542170,
+    "lng":  -0.002284,
+    "travel-zone": "Europe",
+    "travel-distance": 1500,
+    "bio": "Engineer interested in all things cloud, big data and distributed with some game development thrown into the mix as well.",
+    "talks": [
+        "Building Better Distributed Data Types with CRDTs and F#",
+        "Building Reactive Applications with Akka.Net",
+        "Game development with F# and MonoGame"
+    ],
+    "tags": [ "web", "distributed systems", "game dev", "reactive", "cloud" ]
+},
+{
     "name":"Craig Stuntz",
     "member": "craigstuntz",
     "twitter": "craigstuntz",
