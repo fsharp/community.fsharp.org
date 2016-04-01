@@ -330,6 +330,19 @@ process_speakers([
     "tags": [ "paket", "fake", "F#" ]
 },
 {
+    "name":"Steven Taylor",
+    "member": "stevntaylr",
+    "twitter": "stevntaylr"
+    "location": "Sydney, Australia",
+    "lat": -33.813916,
+    "lng": 151.052381,
+    "travel-zone": "New South Wales, Australia",
+    "travel-distance": 100,
+    "bio": "'Stick with science.' I should have listened. I am now of the twilight stuff between worlds: comp/science/data.",
+    "talks": [ "Inception Based Programming with FParsec" ],
+    "tags": [ "F#" ]
+},
+{
     "name":"Tomas Jansson",
     "member": "tomasjansson",
     "location": "Oslo, Norway",
