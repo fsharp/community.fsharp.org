@@ -332,7 +332,7 @@ process_speakers([
 {
     "name":"Steven Taylor",
     "member": "stevntaylr",
-    "twitter": "stevntaylr"
+    "twitter": "stevntaylr",
     "location": "Sydney, Australia",
     "lat": -33.813916,
     "lng": 151.052381,
