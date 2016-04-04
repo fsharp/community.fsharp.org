@@ -162,6 +162,24 @@ process_speakers([
     "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]
 },
 {
+    "name":"Ivan Towlson",
+    "member": "itowlson",
+    "twitter": "ppog_penguin",
+    "location": "Wellington, New Zealand",
+    "lat": -41.2860,
+    "lng": 174.7746,
+    "travel-zone": "Australasia",
+    "travel-distance": 3500,
+    "bio": "Developer on Azure Batch HPC platform.",
+    "talks": [
+        "What is functional programming and why should I care?",
+        "The awesome power of a fully operational type system",
+        "How not to write a for loop",
+        "A practical introduction to F#",
+        "10 F# features every C# developer should lust after" ],
+    "tags": [ ]
+},
+{
     "name":"Jamie Dixon",
     "member": "jamie_dixon",
     "location": "Cary, NC USA",
