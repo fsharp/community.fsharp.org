@@ -93,22 +93,6 @@ process_speakers([
     "tags": [ "compilers", "formal methods", "security", "legacy code", "architecture", "testing" ]
 },
 {
-    "name":"Reid Evans",
-    "member": "ReidNEvans",
-    "location": "Knoxville, TN, USA",
-    "lat": 35.87068,
-    "lng": -84.198629,
-    "travel-zone": "Tennessee, Kentucky, Georgia, North Carolina, South Carolina",
-    "travel-distance": 300,
-    "bio": "F# and Functional Advocate. Founder of FunctionalKnox. http://reidevans.tech",
-    "talks": [ 
-        "A Developer's Journey from Object Oriented to Functional Programming", 
-        "An Intro to Real World Programming with F#", 
-        "Are you still telling the computer how to count? - An introduction to Higher Order Functions" 
-    ],
-    "tags": [ "type providers", "computation expressions", "clean code", "architecture" ]
-},
-{
     "name":"Dave Fancher",
     "member": "davefancher",
     "location": "Carmel, IN, USA",
@@ -304,6 +288,22 @@ process_speakers([
     "bio": "Executive Director of the F# Software Foundation, CTO of C Tech Development Corporation.",
     "talks": [ "How F# made me a better C# and C++ developer" ],
     "tags": [ "ui" ]
+},
+{
+    "name":"Reid Evans",
+    "member": "ReidNEvans",
+    "location": "Knoxville, TN, USA",
+    "lat": 35.87068,
+    "lng": -84.198629,
+    "travel-zone": "Tennessee, Kentucky, Georgia, North Carolina, South Carolina",
+    "travel-distance": 300,
+    "bio": "F# and Functional Advocate. Founder of FunctionalKnox. http://reidevans.tech",
+    "talks": [ 
+        "A Developer's Journey from Object Oriented to Functional Programming", 
+        "An Intro to Real World Programming with F#", 
+        "Are you still telling the computer how to count? - An introduction to Higher Order Functions" 
+    ],
+    "tags": [ "type providers", "computation expressions", "clean code", "architecture" ]
 },
 {
     "name":"Riccardo Terrell",
