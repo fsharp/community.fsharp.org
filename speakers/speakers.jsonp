@@ -405,6 +405,20 @@ process_speakers([
     "tags": [ "web", "suave", "fake" ]
 },
 {
+    "name":"Tomasz Jaskula",
+    "member": "tjaskula",
+    "twitter": "tjaskula",
+    "location": "Paris, France",
+    "lat": 48.86206,
+    "lng": 2.343179,
+    "travel-zone": "Europe",
+    "travel-distance": 2000,
+    "bio": "Software developer, data scientist, machine learner and guitarist the rest of the time",
+    "talks": [
+        "CQRS Event Sourcing with F#"],
+    "tags": [ "cqrs", "distributed systems", "F#" ]
+},
+{
     "name":"Yan Cui",
     "member": "theburningmonk",
     "location": "London, United Kingdom",
