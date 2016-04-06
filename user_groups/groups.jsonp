@@ -262,6 +262,16 @@ process_groups([
     "lng":-6.2364108
 },
 {
+    "name":"Functional Knox",
+    "website":"http://twitter.com/functionalknox",
+    "location":"Knoxville, TN, United States",
+    "contact":"",
+    "fsharp_group":false,
+    "description":"The Knoxville Functional Programmers group. Focused on collaborative learning of FP and FP techniques.  We meet bi-weekly in Cedar Bluff with short presentations followed by discussion and Q & A.",
+    "lat":35.964668,
+    "lng":-83.926453
+},
+{
     "name":"Functional Phoenix",
     "website":"http://www.meetup.com/funcphx/",
     "location":"Tempe, AZ, United States",
