@@ -337,6 +337,19 @@ process_speakers([
     "tags": [ "scripting", "akka", "concurrency", "docker", "frp" ]
 },
 {
+    "name":"Rodrigo Vidal",
+    "member": "rodrigovidal",
+    "twitter": "rodrigovidal",
+    "location": "Rio de Janeiro, RJ, Brazil",
+    "lat": -22.950738,
+    "lng": -43.181332,
+    "travel-zone": "Brazil",
+    "travel-distance": 500,
+    "bio": "Software Engineer @ VTEX. F# MVP",
+    "talks": [ "Domain Driven Functional Programming", "Functional Web Development with F#", "Monadic Design" ],
+    "tags": ["akka.net", "fsharp", "microservices", "haskell" ]
+},
+{
     "name":"Ryan Riley",
     "member": "panesofglass",
     "location": "Manvel, TX, United States",
