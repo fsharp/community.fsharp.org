@@ -469,18 +469,5 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
-},
-{
-    "name":"Kevin Knoop",
-    "member": "kevinknoop",
-    "twitter": "deapsquatter",
-    "location": "Cape Town, South Africa",
-    "lat": -33.872143,
-    "lng":  18.633400,
-    "travel-zone": "Cape Town",
-    "travel-distance": 100,
-    "bio": "Consulting Software Developer at Autotask Corporation.",
-    "talks": ["F# for C# Developers"],
-    "tags": ["cross-platform","rx","fake"]
 }
 ]);
