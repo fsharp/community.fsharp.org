@@ -132,6 +132,16 @@ process_groups([
     "lng":19.4874598
 },
 {
+    "name":"F# |> Cambridge",
+    "website":"http://www.meetup.com/Cambridge-F-Community/",
+    "location":"Cambridge, UK",
+    "contact":"Mark Gray",
+    "fsharp_group":true,
+    "description":"Hallo, ciao, konnichiwa, hola, merhaba, bonjour! Cambridge, the spiritual home of F#, and home to the Cambridge F# User Group, we are all about F# and the community. We love F#.",
+    "lat":52.2096699,
+    "lng":0.1196367
+},
+{
     "name":"F# Milano",
     "website":"http://www.meetup.com/FSharp-Milano/",
     "location":"Milano, Italy",
