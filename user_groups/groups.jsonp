@@ -242,6 +242,16 @@ process_groups([
     "lng":4.8507648
 },
 {
+    "name":"FSharping",
+    "website":"http://www.fsharping.com",
+    "location":"Prague, Czech Republic",
+    "contact":"Roman Provaznik",
+    "fsharp_group":true,
+    "description":"FSharping is group of F# enthusiasts based in Czech Republic. Our goal is simple: Constant learning & teaching F#.",
+    "lat":50.0836364,
+    "lng":14.4480897
+},
+{
     "name":"Functional Brighton",
     "website":"http://www.meetup.com/Functional-Brighton/",
     "location":"Brighton, United Kingdom",
