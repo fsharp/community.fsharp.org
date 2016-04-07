@@ -37,7 +37,7 @@ process_speakers([
     "travel-distance": 600,
     "bio": ".NET developer in love with Functional Programming thanks to F#. Creator of Fable, F# to JS compiler.",
     "talks": [
-        "Fable, the compiler that emits JavaScript you can be proud of!",
+        "Fable, the compiler that emits JavaScript you can be proud of!"
     ],
     "tags": [ "web", "javascript", "node", "mobile" ]
 },
@@ -246,6 +246,19 @@ process_speakers([
     "bio": "Open Source hacker",
     "talks": [ "F# Open Source ecosystem", "Functional Web - F# and Elm"  ],
     "tags": [ "open source", "tooling", "web" ]
+},
+{
+    "name":"Mark Seemann",
+    "member": "ploeh",
+    "twitter": "ploeh",    
+    "location": "Copenhagen, Denmark",
+    "lat": 55.670340,
+    "lng": 12.536719,
+    "travel-zone": "World",
+    "travel-distance": 20000,
+    "bio": "Helps programmers make code easier to maintain..",
+    "talks": [ ],
+    "tags": [ "application-architecture", "test-driven-development", "property-based testing" ]
 },
 {
     "name":"Mathias Brandewinder",
