@@ -74,6 +74,19 @@ process_speakers([
     "tags": [ "web", "distributed systems", "game dev", "reactive", "cloud" ]
 },
 {
+    "name":"Carsten K&ouml;nig",
+    "member":"tailcallingdev",
+    "twitter":"CarstenK_Dev",
+    "location":"Germany",
+    "lat": 50.267045,
+    "lng": 11.332332,
+    "travel-zone": "Germany",
+    "travel-distance": 400,
+    "bio": " I love functional programming and have been working with F# for over 10yrs. I occasionally give talks and workshops and would love to show you why F# is just more fun.",
+    "talks": [ ],
+    "tags": [ ]
+},
+{
     "name":"Craig Stuntz",
     "member": "craigstuntz",
     "twitter": "craigstuntz",
