@@ -74,6 +74,23 @@ process_speakers([
     "tags": [ "web", "distributed systems", "game dev", "reactive", "cloud" ]
 },
 {
+    "name": "Antonio Cisternino",
+    "member": "cisterni",
+    "twitter": "cisterni",
+    "location":"Pisa, Italy",
+    "lat": 43.7147479,
+    "lng": 10.402549,
+    "travel-zone": "Italy",
+    "travel-distance": 200,
+    "bio": "Antonio Cisternino is Professor of Computer Science at University of Pisa. Co-author of the Expert F# book series, he uses F# as a teaching language since 2008 for the Programming Graphical Interface course.",
+    "talks": [
+        "Teaching (meta)-programming with F#",
+        "IoX: a JSON message router platform for the Internet of Everything",
+        "A lightweight runtime for reactive programming in F#"
+    ],
+    "tags": [ "metaprogramming", "fsharp", "evReact", "IoT" ]
+},
+{
     "name":"Carsten K&ouml;nig",
     "member":"tailcallingdev",
     "twitter":"CarstenK_Dev",
