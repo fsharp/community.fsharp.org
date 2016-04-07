@@ -36,9 +36,7 @@ process_speakers([
     "travel-zone": "Spain",
     "travel-distance": 600,
     "bio": ".NET developer in love with Functional Programming thanks to F#. Creator of Fable, F# to JS compiler.",
-    "talks": [
-        "Fable, the compiler that emits JavaScript you can be proud of!",
-    ],
+    "talks": ["Fable, the compiler that emits JavaScript you can be proud of!"],
     "tags": [ "web", "javascript", "node", "mobile" ]
 },
 {
@@ -233,6 +231,19 @@ process_speakers([
     "bio": "Wondering software developer. C#, F#, polyglot. Web / Windows, etc.",
     "talks": [ "Full Stack F# Web Development", "Introduction to F#"  ],
     "tags": [  "enterprise development", "ui", "web" ]
+},
+{
+    "name":"Kevin Knoop",
+    "member": "kevinknoop",
+    "twitter": "deapsquatter",
+    "location": "Cape Town, South Africa",
+    "lat": -33.872143,
+    "lng":  18.633400,
+    "travel-zone": "Cape Town",
+    "travel-distance": 100,
+    "bio": "Consulting Software Developer at Autotask Corporation.",
+    "talks": ["F# for C# Developers"],
+    "tags": ["cross-platform","rx","fake"]
 },
 {
     "name":"Krzysztof Cieslak",
@@ -458,5 +469,18 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
+},
+{
+    "name":"Kevin Knoop",
+    "member": "kevinknoop",
+    "twitter": "deapsquatter",
+    "location": "Cape Town, South Africa",
+    "lat": -33.872143,
+    "lng":  18.633400,
+    "travel-zone": "Cape Town",
+    "travel-distance": 100,
+    "bio": "Consulting Software Developer at Autotask Corporation.",
+    "talks": ["F# for C# Developers"],
+    "tags": ["cross-platform","rx","fake"]
 }
 ]);
