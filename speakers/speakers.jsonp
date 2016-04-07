@@ -248,6 +248,19 @@ process_speakers([
     "tags": [ "open source", "tooling", "web" ]
 },
 {
+    "name":"Mark Gray",
+    "member": "markgray",
+    "twitter": "markrgray",    
+    "location": "Cambridge, United Kingdom",
+    "lat": 52.2430959,
+    "lng": 0.4227286,
+    "travel-zone": "United Kingdom",
+    "travel-distance": 1000,
+    "bio": "Student of life, founder and organiser of the Cambridge F# User Group and founder of https://www.FSharp.TV. and MAG Solutions Ltd.",
+    "talks": [ "How to become a TV star" ],
+    "tags": [ "learning", "hands-on", "F#" ]
+},
+{
     "name":"Mathias Brandewinder",
     "member": "brandewinder",
     "twitter": "brandewinder",    
