@@ -257,7 +257,7 @@ process_speakers([
     "travel-zone": "United Kingdom",
     "travel-distance": 1000,
     "bio": "Student of life, founder and organiser of the Cambridge F# User Group and founder of https://www.FSharp.TV. and MAG Solutions Ltd.",
-    "talks": [ "How to become TV star" ],
+    "talks": [ "How to become a TV star" ],
     "tags": [ "learning", "hands-on", "F#" ]
 },
 {
