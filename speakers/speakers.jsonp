@@ -76,6 +76,36 @@ process_speakers([
     "tags": [ "web", "distributed systems", "game dev", "reactive", "cloud" ]
 },
 {
+    "name": "Antonio Cisternino",
+    "member": "cisterni",
+    "twitter": "cisterni",
+    "location":"Pisa, Italy",
+    "lat": 43.7147479,
+    "lng": 10.402549,
+    "travel-zone": "Italy",
+    "travel-distance": 200,
+    "bio": "Antonio Cisternino is Professor of Computer Science at University of Pisa. Co-author of the Expert F# book series, he uses F# as a teaching language since 2008 for the Programming Graphical Interface course.",
+    "talks": [
+        "Teaching (meta)-programming with F#",
+        "IoX: a JSON message router platform for the Internet of Everything",
+        "A lightweight runtime for reactive programming in F#"
+    ],
+    "tags": [ "metaprogramming", "fsharp", "evReact", "IoT" ]
+},
+{
+    "name":"Carsten K&ouml;nig",
+    "member":"tailcallingdev",
+    "twitter":"CarstenK_Dev",
+    "location":"Germany",
+    "lat": 50.267045,
+    "lng": 11.332332,
+    "travel-zone": "Germany",
+    "travel-distance": 400,
+    "bio": " I love functional programming and have been working with F# for over 10yrs. I occasionally give talks and workshops and would love to show you why F# is just more fun.",
+    "talks": [ ],
+    "tags": [ ]
+},
+{
     "name":"Craig Stuntz",
     "member": "craigstuntz",
     "twitter": "craigstuntz",
@@ -235,6 +265,19 @@ process_speakers([
     "tags": [  "enterprise development", "ui", "web" ]
 },
 {
+    "name":"Kevin Knoop",
+    "member": "kevinknoop",
+    "twitter": "deapsquatter",
+    "location": "Cape Town, South Africa",
+    "lat": -33.872143,
+    "lng":  18.633400,
+    "travel-zone": "Cape Town",
+    "travel-distance": 100,
+    "bio": "Consulting Software Developer at Autotask Corporation.",
+    "talks": ["F# for C# Developers"],
+    "tags": ["cross-platform","rx","fake"]
+},
+{
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
     "twitter": "k_cieslak",
@@ -259,6 +302,19 @@ process_speakers([
     "bio": "Helps programmers make code easier to maintain..",
     "talks": [ ],
     "tags": [ "application-architecture", "test-driven-development", "property-based testing" ]
+},
+{
+    "name":"Mark Gray",
+    "member": "markgray",
+    "twitter": "markrgray",    
+    "location": "Cambridge, United Kingdom",
+    "lat": 52.2430959,
+    "lng": 0.4227286,
+    "travel-zone": "United Kingdom",
+    "travel-distance": 1000,
+    "bio": "Student of life, founder and organiser of the Cambridge F# User Group and founder of https://www.FSharp.TV. and MAG Solutions Ltd.",
+    "talks": [ "How to become a TV star" ],
+    "tags": [ "learning", "hands-on", "F#" ]
 },
 {
     "name":"Mathias Brandewinder",

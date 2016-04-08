@@ -132,6 +132,16 @@ process_groups([
     "lng":19.4874598
 },
 {
+    "name":"F# |> Cambridge",
+    "website":"http://www.meetup.com/Cambridge-F-Community/",
+    "location":"Cambridge, UK",
+    "contact":"Mark Gray",
+    "fsharp_group":true,
+    "description":"Hallo, ciao, konnichiwa, hola, merhaba, bonjour! Cambridge, the spiritual home of F#, and home to the Cambridge F# User Group, we are all about F# and the community. We love F#.",
+    "lat":52.2096699,
+    "lng":0.1196367
+},
+{
     "name":"F# Milano",
     "website":"http://www.meetup.com/FSharp-Milano/",
     "location":"Milano, Italy",
@@ -240,6 +250,16 @@ process_groups([
     "description":"FP AMS aims to bring together commercial users of functional programming. We want to support and promote functional technologies in the Dutch software industry.",
     "lat":52.3477962,
     "lng":4.8507648
+},
+{
+    "name":"FSharping",
+    "website":"http://www.fsharping.com",
+    "location":"Prague, Czech Republic",
+    "contact":"Roman Provaznik",
+    "fsharp_group":true,
+    "description":"FSharping is group of F# enthusiasts based in Czech Republic. Our goal is simple: Constant learning & teaching F#.",
+    "lat":50.0836364,
+    "lng":14.4480897
 },
 {
     "name":"Functional Brighton",
