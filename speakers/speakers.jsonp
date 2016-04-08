@@ -55,6 +55,19 @@ process_speakers([
     "tags": [ "cross-platform", "fsharp", "functional programming", "data mining", "OOP", "cloud", "distributed computing" ]
 },
 {
+    "name": "Andre Dublin",
+    "member": "andredublin",
+    "twitter": "AndreDublin",
+    "location": "Charleston, South Carolina",
+    "lat": 32.820967,
+    "lng": -80.1109051,
+    "travel-zone": "Eastern and Central United States",
+    "travel-distance": 500,
+    "bio": "Software Engineer and Architect with an interest in functional languages, game ai, and distributed systems",
+    "talks": [],
+    "tags" : [ "web", "distributed systems", "servers", "functional programming" ]
+},
+{
     "name":"Andrew Cherry",
     "member": "kolektiv",
     "twitter": "kolektiv",
@@ -304,19 +317,6 @@ process_speakers([
     "tags": [ "open source", "tooling", "web" ]
 },
 {
-    "name":"Mark Seemann",
-    "member": "ploeh",
-    "twitter": "ploeh",    
-    "location": "Copenhagen, Denmark",
-    "lat": 55.670340,
-    "lng": 12.536719,
-    "travel-zone": "World",
-    "travel-distance": 20000,
-    "bio": "Helps programmers make code easier to maintain..",
-    "talks": [ ],
-    "tags": [ "application-architecture", "test-driven-development", "property-based testing" ]
-},
-{
     "name":"Mark Gray",
     "member": "markgray",
     "twitter": "markrgray",    
@@ -328,6 +328,19 @@ process_speakers([
     "bio": "Student of life, founder and organiser of the Cambridge F# User Group and founder of https://www.FSharp.TV. and MAG Solutions Ltd.",
     "talks": [ "How to become a TV star" ],
     "tags": [ "learning", "hands-on", "F#" ]
+},
+{
+    "name":"Mark Seemann",
+    "member": "ploeh",
+    "twitter": "ploeh",    
+    "location": "Copenhagen, Denmark",
+    "lat": 55.670340,
+    "lng": 12.536719,
+    "travel-zone": "World",
+    "travel-distance": 20000,
+    "bio": "Helps programmers make code easier to maintain..",
+    "talks": [ ],
+    "tags": [ "application-architecture", "test-driven-development", "property-based testing" ]
 },
 {
     "name":"Mathias Brandewinder",
