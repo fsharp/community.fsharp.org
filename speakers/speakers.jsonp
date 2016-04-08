@@ -40,6 +40,19 @@ process_speakers([
     "tags": [ "web", "javascript", "node", "mobile" ]
 },
 {
+    "name":"Ali Baghernejad",
+    "member": "Alibaghernejad",
+    "twitter": "AliBaghernezhad",    
+    "location": "Rasht, Guilan, Iran",
+    "lat": 37.279362,
+    "lng": 49.583883,
+    "travel-zone": "Iran",
+    "travel-distance": 1500,
+    "bio": "Software Engineer & Scrum Master, Author of Multi-Paradigm Programming using F# and .NET",
+    "talks": [ "Introduction to F# and Functional programming" ],
+    "tags": [ "cross-platform", "fsharp", "functional programming", "data mining", "OOP", "cloud", "distributed computing" ]
+},
+{
     "name":"Andrew Cherry",
     "member": "kolektiv",
     "twitter": "kolektiv",
