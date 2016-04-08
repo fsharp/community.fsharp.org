@@ -40,6 +40,18 @@ process_speakers([
     "tags": [ "web", "javascript", "node", "mobile" ]
 },
 {
+    "name": "Andre Dublin",
+    "member": "andredublin",
+    "twitter": "AndreDublin",
+    "location": "Charleston, South Carolina",
+    "lat": 32.820967,
+    "lng": -80.1109051,
+    "travel-zone": "Eastern and Central United States",
+    "bio": "Software Engineer and Architect with an interest in functional languages, game ai, and distributed systems",
+    "talks": [],
+    "tags" : [ "web", "distributed systems", "servers", "functional programming" ]
+},
+{
     "name":"Andrew Cherry",
     "member": "kolektiv",
     "twitter": "kolektiv",
