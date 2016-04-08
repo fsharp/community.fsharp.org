@@ -161,6 +161,18 @@ process_speakers([
     "tags": [ "web", "tooling", "clean code", "scripting" ]
 },
 {
+    "name":"Dmitri Soshnikov",
+    "member": "shwars",
+    "location": "Moscow, Russia",
+    "lat": 55.845363,
+    "lng": 37.513483,
+    "travel-zone": "Russia, CIS and sometimes abroad",
+    "travel-distance": 700,
+    "bio": "Technical Evangelist at Microsoft Russia, Associate Professor at Moscow Institute of Physics and Technology, Higher School of Economics and Moscow Aviation Institute, Author of the only one original F# book in Russian.",
+    "talks": [ ],
+    "tags": [ "beginners", "functional programming" ]
+},
+{
     "name":"Edgar S&aacute;nchez",
     "member": "edgarsanchez",
     "location": "Quito, Ecuador",
