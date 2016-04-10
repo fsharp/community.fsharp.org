@@ -402,6 +402,28 @@ process_speakers([
     "tags": [ "microservices", "big data", "reactive services", "xamarin" ]
 },
 {
+    "name": "Ray Singh",
+    "member": "ray",
+    "location": "Miami Beach, FL, USA",
+    "lat": 25.7928586,
+    "lng": -80.1380373,
+    "travel-zone": "United States, Canada ",
+    "travel-distance": 20000,
+    "bio": "Principal of NXS-7 Software, Long time programmer.",
+    "talks": [
+        "Why F#",
+        "Full Stack F#: Browser, Desktop, Server",
+        "Large Systems: It doesn't have to be that way"
+    ],
+    "tags": [
+        "F#",
+        "full stack",
+        "Javascript",
+        "websharper",
+        "C#"
+    ]
+},
+{
     "name":"Reed Copsey",
     "member": "reedcopsey",
     "twitter": "reedcopsey",    
