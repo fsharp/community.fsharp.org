@@ -496,7 +496,7 @@ process_speakers([
     "location": "Pleasantville, New York, USA",
     "lat": 41.125871,
     "lng": -73.7924017,
-    "travel-zone": "Germany",
+    "travel-zone": "Stachu",
     "travel-distance": 200,
     "bio": "Burrito-Eating .NET Hipster",
     "talks": [
