@@ -491,6 +491,20 @@ process_speakers([
     "tags": [ "web", "freya", "owin", "domain model" ]
 },
 {
+    "name":"Stachu Korick",
+    "member": "stachu",
+    "location": "Pleasantville, New York, USA",
+    "lat": 41.125871,
+    "lng": -73.7924017,
+    "travel-zone": "Germany",
+    "travel-distance": 200,
+    "bio": "Burrito-Eating .NET Hipster",
+    "talks": [
+        "Introduction to F# and Functional Programmingq",
+        "Solving Rubik's Cubes with F#" ],
+    "tags": [ "F#", "C#", "Elm" ]
+},
+{
     "name":"Steffen Forkmann",
     "member": "forki",
     "location": "Essen, Germany",
