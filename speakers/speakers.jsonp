@@ -214,6 +214,19 @@ process_speakers([
     "tags": [ "program derivation", "DSLs", "games" ]
 },
 {
+    "name":"Giuseppe Maggiore",
+    "member": "g_maggiore",
+    "twitter": "g_maggiore",
+    "location": "Rotterdam, South Holland, Netherlands",
+    "lat": 51.917384,
+    "lng": 4.483923,
+    "travel-zone": "Netherlands",
+    "travel-distance": 100,
+    "bio": "Associate professor (hogeschool hoofddocent) at Rotterdam University of Applied Sciences",
+    "talks": [ "Introduction to functional programming with F#", "Game development in F#", "Advanced functional software engineering: meta-programming in F# with monads", "Building a compiler in F#" ],
+    "tags": [ "F#", "games", "compilers", "meta programming" ]
+},
+{
     "name":"Isaac Abraham",
     "member": "isaac",
     "location": "Fulda, Germany",
