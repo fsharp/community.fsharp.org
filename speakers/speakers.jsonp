@@ -358,6 +358,19 @@ process_speakers([
     "tags": [ "open source", "tooling", "web" ]
 },
 {
+    "name": "Marcus Griep",
+    "member": "neoeinstein",
+    "twitter": "neoeinstein",
+    "location": "Waltham, MA, United States",
+    "lat": 42.41,
+    "lng":  -71.26,
+    "travel-zone": "United States, Global with assistance",
+    "travel-distance": 2000,
+    "bio": "Software Engineer with Cimpress — https://neoeinstein.github.io",
+    "talks": [ "Hopac: Powering Concurrency with Synchronous Messaging", "Hopac Streams: Taming the live wire", "Chiron: Functional JSON" ],
+    "tags": [ "open source", "concurrency", "microservices" ]
+},
+{
     "name":"Mark Gray",
     "member": "markgray",
     "twitter": "markrgray",    
