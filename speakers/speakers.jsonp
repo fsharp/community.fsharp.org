@@ -619,6 +619,21 @@ process_speakers([
     "tags": [ "dsl", "cloud", "distributed systems" ]
 },
 {
+    "name":"Will Smith",
+    "member": "tihan",
+    "twitter": "tihan",
+    "location": "San Mateo, CA, USA",
+    "lat": 37.5630556,
+    "lng": -122.3244444,
+    "travel-zone": "United States West Coast",
+    "travel-distance": 1000,
+    "bio": "Software Engineer and Game Developer.",
+    "talks": [
+        "Porting Quake III to F#: A Journey to Functional Programming"
+    ],
+    "tags": [ "gamedev", "game development" ]
+},
+{
     "name":"Yukitoshi Suzuki",
     "member": "yukitos",
     "twitter": "yukitos",
