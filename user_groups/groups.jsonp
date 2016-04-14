@@ -532,6 +532,16 @@ process_groups([
     "lng":14.4519588
 },
 {
+    "name":"Red River .NET User Group",
+    "website":"http://rrdnug.com",
+    "location":"Shreveport, LA, USA",
+    "contact":"Jeremy Abbott or Ryan Rousseau @ rrdnug@gmail.com",
+    "fsharp_group":false,
+    "description":"Red River .NET User Group serves developers in and around the Shreveport-Bossier area. We meet the 3rd Wednesday of every month at the LSUS Technology Center. We will have free food and door prizes at each meeting, as well as a presentation on a topic relevant to .NET developers.",
+    "lat":32.4285844,
+    "lng":,-93.7042912
+},
+{
     "name":"Rhein/Ruhr Functional Programming UserGroup",
     "website":"http://www.meetup.com/Rhein-Ruhr-Functional-Programming-UserGroup/",
     "location":"Essen, Germany",
