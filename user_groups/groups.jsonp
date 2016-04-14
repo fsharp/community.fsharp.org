@@ -252,6 +252,16 @@ process_groups([
     "lng":4.8507648
 },
 {
+    "name":"FSharp Italia",
+    "website":"http://www.meetup.com/FSharp-Italia/",
+    "location":"Naples, Italy",
+    "contact":"Salvatore Sorrentino",
+    "fsharp_group":true,
+    "description":"This group is aimed to promote and advertise the Functional programming paradigma with F# and .NET.",
+    "lat":40.848863,
+    "lng":14.2514963
+},
+{
     "name":"FSharping",
     "website":"http://www.fsharping.com",
     "location":"Prague, Czech Republic",
