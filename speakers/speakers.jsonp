@@ -523,6 +523,7 @@ process_speakers([
 {
     "name":"Ryan Riley",
     "member": "panesofglass",
+    "twitter": "panesofglass",
     "location": "Manvel, TX, United States",
     "lat": 29.48414,
     "lng": -95.35076,
@@ -531,6 +532,19 @@ process_speakers([
     "bio": "Engineer for Tachyus, OWIN instigator, contributor to Freya, Suave, and F# web tools, Community for F# creator",
     "talks": [ "Domain Modeling with Types", "Relax and let the HTTP Machine do the Work", "F# on the Web", "A Brief History of OWIN" ],
     "tags": [ "web", "freya", "owin", "domain model" ]
+},
+{
+    "name":"Salvatore Sorrentino",
+    "member": "sorrentmutie",
+    "twitter": "cSharpNapoli",
+    "location": "Naples, Italy",
+    "lat": 40.8814707,
+    "lng": 14.1407949,
+    "travel-zone": "Italy",
+    "travel-distance": 800,
+    "bio": "With a degree and a Phd in Physics (Elementary Particles), he started writing Fortran 77 simulations of the CERN neutrino beam and then specialized in Data Analysis. After leaving the academic world, he specialized himself on the .NET Framework and the Web programming. Co-founder of FSharp Italia.",
+    "talks": [ "Treasure hunt and type providers", "Parleremo di programmazione funzionale con C# e F#.", "Types in f#. You're not my type!" ],
+    "tags": [ "type providers", "types", "functional programming" ]
 },
 {
     "name":"Stachu Korick",
