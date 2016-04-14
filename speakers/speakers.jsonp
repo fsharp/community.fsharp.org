@@ -536,7 +536,6 @@ process_speakers([
 {
     "name":"Salvatore Sorrentino",
     "member": "sorrentmutie",
-    "twitter": "cSharpNapoli",
     "location": "Naples, Italy",
     "lat": 40.8814707,
     "lng": 14.1407949,
