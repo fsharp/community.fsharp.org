@@ -658,5 +658,18 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
-}
+},
+{
+    "name":"William (Bill) Berry",
+    "member": "williamberryiii",
+    "twitter": "williamberryiii",    
+    "location": "Irvine, CA, United States",
+    "lat": 33.6839,
+    "lng": 117.7947,
+    "travel-zone": "United States Southwest",
+    "travel-distance": 1000,
+    "bio": "Architect/Technical Lead for The Retail Equation",
+    "talks": [ ],
+    "tags": [ "etl", "data modeling", "dsl", "automation" ]
+},
 ]);
