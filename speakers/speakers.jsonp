@@ -632,6 +632,19 @@ process_speakers([
     "tags": [ "dsl", "cloud", "distributed systems" ]
 },
 {
+    "name":"William (Bill) Berry",
+    "member": "williamberryiii",
+    "twitter": "williamberryiii",    
+    "location": "Irvine, CA, United States",
+    "lat": 33.6694444,
+    "lng": -117.8222222,
+    "travel-zone": "United States Southwest",
+    "travel-distance": 1000,
+    "bio": "Architect/Technical Lead for The Retail Equation",
+    "talks": [ ],
+    "tags": [ "etl", "data modeling", "dsl", "automation" ]
+},
+{
     "name":"Will Smith",
     "member": "tihan",
     "twitter": "tihan",
