@@ -410,6 +410,19 @@ process_speakers([
     "tags": [ "machine-learning", "hands-on" ]
 },
 {
+    "name":"Michael Newton",
+    "member": "mavnn",
+    "twitter": "mavnn",
+    "location": "Hove, UK",
+    "lat": 48.7482375,
+    "lng": -0.2142813,
+    "travel-zone": "Uk",
+    "travel-distance": 50,
+    "bio": "Developer, architect, training",
+    "talks": [ "Type Providers from the Ground Up", "Breaking Your Code in New and Exciting Ways" ],
+    "tags": [ "type providers", "FsCheck", "training" ]
+},
+{
     "name":"Paulmichael Blasucci",
     "member": "pblasucci",
     "location": "Jersey City, NJ, United States",
