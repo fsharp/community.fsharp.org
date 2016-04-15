@@ -671,5 +671,5 @@ process_speakers([
     "bio": "Architect/Technical Lead for The Retail Equation",
     "talks": [ ],
     "tags": [ "etl", "data modeling", "dsl", "automation" ]
-},
+}
 ]);
