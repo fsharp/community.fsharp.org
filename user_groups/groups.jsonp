@@ -135,11 +135,11 @@ process_groups([
     "name":"F# |> Bristol",
     "website":"http://www.meetup.com/FSharpBristol/",
     "location":"Bristol, UK",
-    "contact":"Corwin Pierce-Butler,",
+    "contact":"Corwin Pierce-Butler",
     "fsharp_group":true,
     "description":"This group is for people that are interested in furthering the F# community, we are based in Bristol. Feel free to pop along if you are interested in finding out what F# is about and what it can do for you. We started this group because F# is cool, a powerful language and the F# community is full of fantastic approachable people that are always glad to help.",
-    "lat":51.3623858,
-    "lng":-7.0823965
+    "lat":51.4516632,
+    "lng":-2.5989452
 },
 {
     "name":"F# |> Cambridge",
