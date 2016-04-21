@@ -304,6 +304,19 @@ process_speakers([
     "tags": [ "introduction", "mobile", "xamarin", "web", "suave" ]
 },
 {
+    "name":"Jonathan Wood",
+    "member": "jwood",
+    "twitter": "jwood",
+    "location": "Columbia, SC, USA",
+    "lat": 34.0374295,
+    "lng": -81.0776502,
+    "travel-zone": "United States South East",
+    "travel-distance": 200,
+    "bio": "Software consultant for Wintellect that dabbles in F# for personal projects and fun.",
+    "talks": ["Gentle Introduction to F#"],
+    "tags": ["mobile", "xamarin"]
+},
+{
     "name":"Jorge Fioranelli",
     "member": "jorgefioranelli",
     "twitter": "jorgefioranelli",
