@@ -684,5 +684,18 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
+},
+{
+    "name":"Jonathan Wood",
+    "member": "jwood",
+    "twitter": "JWood",
+    "location": "Columbia, SC, USA",
+    "lat": 34.0374295,
+    "lng": -81.0776502,
+    "travel-zone": "United States South East",
+    "travel-distance": 200,
+    "bio": "Software consultant for Wintellect that dabbles in F# for personal projects and fun.",
+    "talks": [Gentle Introduction to F#],
+    "tags": []
 }
 ]);
