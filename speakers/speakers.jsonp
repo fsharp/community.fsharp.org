@@ -314,7 +314,7 @@ process_speakers([
     "travel-distance": 200,
     "bio": "Software consultant for Wintellect that dabbles in F# for personal projects and fun.",
     "talks": [Gentle Introduction to F#],
-    "tags": []
+    "tags": ["mobile", "xamarin"]
 },
 {
     "name":"Jorge Fioranelli",
