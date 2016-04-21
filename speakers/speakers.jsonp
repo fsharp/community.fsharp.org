@@ -313,7 +313,7 @@ process_speakers([
     "travel-zone": "United States South East",
     "travel-distance": 200,
     "bio": "Software consultant for Wintellect that dabbles in F# for personal projects and fun.",
-    "talks": [Gentle Introduction to F#],
+    "talks": ["Gentle Introduction to F#"],
     "tags": ["mobile", "xamarin"]
 },
 {
