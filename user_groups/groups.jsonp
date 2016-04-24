@@ -472,6 +472,16 @@ process_groups([
     "lng":10.7548428
 },
 {
+    "name":"OsloFSharp",
+    "website":"http://www.meetup.com/OsloFSharp/",
+    "location":"Oslo, Norway",
+    "contact":"Tomas Jansosn",
+    "fsharp_group":true,
+    "description":"OsloFSharp is a group that has the focus of helping grow the F# community in Oslo. Everyone is welcomed, beginners and expert. We are welcoming the community to engage and try to have as many local speakers as possible. We will try to have a balance between hands-on workshops and coding dojos and regular presentations.",
+    "lat":59.9187905,
+    "lng":10.731657
+},
+{
     "name":"Perth Functional Programmers",
     "website":"http://www.meetup.com/PerthFP/",
     "location":"Perth, Australia",
