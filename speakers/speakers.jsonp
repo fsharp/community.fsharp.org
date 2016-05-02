@@ -214,6 +214,19 @@ process_speakers([
     "tags": [ "program derivation", "DSLs", "games" ]
 },
 {
+    "name":"Ghiani Mauro",
+    "member": "mauroghiani",
+    "twitter": "loddity",
+    "location": "Naples, Italy",
+    "lat": 40.833333,
+    "lng": 14.25,
+    "travel-zone": "Europe",
+    "travel-distance": 800,
+    "bio": "Founder of F# Italia. Staff member of DotNetCampania. Started a few decades ago with Fortran and C. Moved to F# and the functional programming paradigm three years ago. Working for over a million community people of fantasy game players and sport news fan.",
+    "talks": [ "Introduction to F#", "F# Ground Zero", "F# Tree Dojo" ],
+    "tags": [ "Type Providers", "Basics", "Web api", "Data Structures" ]
+},
+{
     "name":"Giuseppe Maggiore",
     "member": "g_maggiore",
     "twitter": "g_maggiore",
