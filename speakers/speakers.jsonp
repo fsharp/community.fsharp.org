@@ -547,6 +547,31 @@ process_speakers([
     "tags": [ "scripting", "akka", "concurrency", "docker", "frp" ]
 },
 {
+    "name": "Richard Minerich",
+    "member": "rickasaurus",
+    "twitter": "rickasaurus",
+    "location": "New York, New York, United States",
+    "lat": "40.7484404",
+    "lng": "-73.9856554",
+    "travel_zone": "USA",
+    "travel_distance": "2000",
+    "bio": "Director of R&D at Bayard Rock. Long time user and lover of F#. ",
+    "talks": [
+        "Computation Expressions",
+        "DSLs in F#",
+        "F# for Data Science",
+        "Anti-Money Laundering in F#",
+        "Open Source Projects at Bayard Rock"
+    ],
+    "tags": [
+        "machine learning",
+        "data science",
+        "ipython notebook",
+        "barb",
+        "fungible"
+    ]
+},
+{
     "name":"Rodrigo Vidal",
     "member": "rodrigovidal",
     "twitter": "rodrigovidal",
