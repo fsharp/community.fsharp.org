@@ -532,6 +532,16 @@ process_groups([
     "lng":10.731657
 },
 {
+    "name":"Ottawa Functional Programmers",
+    "website":"http://www.meetup.com/Ottawa-Functional-Programmers/",
+    "location":"Ottawa, On, Canada",
+    "contact":"Tim Thornton",
+    "fsharp_group":false,
+    "description": "A meetup for programmers, enthusiasts, and the curious in all functional programming languages. Network and learn new languages, techniques, and concepts in the functional programming space. ",
+    "lat":45.4215,
+    "lng":-75.6972
+},
+{
     "name":"Perth Functional Programmers",
     "website":"http://www.meetup.com/PerthFP/",
     "location":"Perth, Australia",
