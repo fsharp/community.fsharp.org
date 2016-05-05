@@ -690,5 +690,15 @@ process_groups([
     "description":"This is group for anyone who wanted to learn or already know functional programming. Be it Haskell, Scala, F#, Clojure or even Elm. It is more about learning functional concepts and use it in real life application. That includes but not limited to Research, Machine Learning, Business and Web Applications. It is all about learning and growing community working around functional programming languages. Looking forward to all programming enthusiastic who wanted to learning Functional Concepts and Functional Programming language.",
     "lat":18.5204,
     "lng":73.8567
+},
+{
+    "name":"Ottawa Functional Programmers",
+    "website":"http://www.meetup.com/Ottawa-Functional-Programmers/",
+    "location":"Ottawa, On, Canada",
+    "contact":"Tim Thornton",
+    "fsharp_group":false,
+    "description": "A meetup for programmers, enthusiasts, and the curious in all functional programming languages. Network and learn new languages, techniques, and concepts in the functional programming space. ",
+    "lat":45.4215,
+    "lng":-75.6972
 }
 ]);
