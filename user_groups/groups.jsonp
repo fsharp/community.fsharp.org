@@ -352,6 +352,16 @@ process_groups([
     "lng":17.9875455
 },
 {
+    "name":"Functional SC",
+    "website":"http://www.functional.sc",
+    "location":"Charleston, South Carolina",
+    "contact":"Heow Goodman",
+    "fsharp_group":false,
+    "description":"A group for developers in South Carolina with an interest in functional programming.",
+    "lat":32.8209674,
+    "lng":-80.1105633
+},
+{
     "name":"Gauteng F# Programming Meetup",
     "website":"http://www.meetup.com/Gauteng-F-Programming-Meetup/",
     "location":"Johannesburg, South Africa",
