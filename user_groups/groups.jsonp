@@ -357,7 +357,7 @@ process_groups([
     "location":"Charleston, South Carolina",
     "contact":"Heow Goodman",
     "fsharp_group":false,
-    "description":"A goupd for develoers in South Carolina with an interest in functional programming.",
+    "description":"A group for developers in South Carolina with an interest in functional programming.",
     "lat":32.8209674,
     "lng":-80.1105633
 },
