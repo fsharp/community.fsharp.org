@@ -42,6 +42,16 @@ process_groups([
     "lng":2.1487679
 },
 {
+    "name":"Bergen IT Shift, Bitshift",
+    "website":"http://www.meetup.com/BitShift/",
+    "location":"Bergen, Norway",
+    "contact":"",
+    "fsharp_group":false,
+    "description":"Bergen IT Shift, Bitshift, is an independent user group for developers and architects. The goal of Bitshift is to share experience with tools and technologies.",
+    "lat":60.390813,
+    "lng":5.3176238
+},
+{
     "name":"Cambridge Developer's User Group",
     "website":"http://www.meetup.com/CAMDUG/",
     "location":"Cambridge, United Kingdom",
