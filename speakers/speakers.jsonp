@@ -119,6 +119,19 @@ process_speakers([
     "tags": [ "metaprogramming", "fsharp", "evReact", "IoT" ]
 },
 {
+    "name":"Avi Avni",
+    "member": "aviavni",
+    "twitter": "AviAvni3",    
+    "location": "Israel, Netivot",
+    "lat": 31.424023,
+    "lng": 34.597769,
+    "travel-zone": "Israel",
+    "travel-distance": 200,
+    "bio": "Consultant at SELA Group.",
+    "talks": [ ],
+    "tags": [ "fsharp", "compilers" ]
+},
+{
     "name":"Carsten K&ouml;nig",
     "member":"tailcallingdev",
     "twitter":"CarstenK_Dev",
