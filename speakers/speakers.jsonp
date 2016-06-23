@@ -477,6 +477,24 @@ process_speakers([
     "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
 },
 {
+    "name":"Quintus Marais",
+    "member": "quintusmarais",
+    "twitter": "quintusm",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "lat": -26.1606116,
+    "lng": 28.0279516,
+    "travel-zone": "Gauteng",
+    "travel-distance": 200,
+    "bio": "Sr. Software Developer at OPSI Systems",
+    "talks": [
+                "Introduction to F#", 
+                "F# in Enterprise Applications",
+                "Data Exploration with F#",
+                "Literate Programming with F#"
+             ],
+    "tags": [ "data exploration", "introduction", "overview", "enterprise applications" ]
+},
+{
     "name":"Rachel Reese",
     "member": "rachelreese",
     "twitter": "rachelreese",
