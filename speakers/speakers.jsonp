@@ -4,7 +4,7 @@ process_speakers([
 {
     "name": "Adam Granicz",
     "member": "granicz",
-    "twitter": "granicz",    
+    "twitter": "granicz",
     "location": "Budapest, Hungary",
     "lat": 47.485451,
     "lng": 19.07154,
@@ -44,7 +44,7 @@ process_speakers([
 {
     "name":"Ali Baghernejad",
     "member": "Alibaghernejad",
-    "twitter": "AliBaghernezhad",    
+    "twitter": "AliBaghernezhad",
     "location": "Rasht, Guilan, Iran",
     "lat": 37.279362,
     "lng": 49.583883,
@@ -121,7 +121,7 @@ process_speakers([
 {
     "name":"Avi Avni",
     "member": "aviavni",
-    "twitter": "AviAvni3",    
+    "twitter": "AviAvni3",
     "location": "Israel, Netivot",
     "lat": 31.424023,
     "lng": 34.597769,
@@ -130,6 +130,19 @@ process_speakers([
     "bio": "Consultant at SELA Group.",
     "talks": [ ],
     "tags": [ "fsharp", "compilers" ]
+},
+{
+    "name":"Cameron Presley",
+    "member":"pcameronpresley",
+    "twitter":"pcameronpresley",
+    "location":"Oak Ridge, TN, United States",
+    "lat": 36.021687,
+    "lng": -84.225957,
+    "travel-zone": "United States Southeast",
+    "travel-distance": 300,
+    "bio": "Senior Software Engineer with a penchant for teaching.",
+    "talks": [ "Taking a Gamble with F#: Implementing Blackjack"],
+    "tags": [ "intro", "domain modeling"]
 },
 {
     "name":"Carsten K&ouml;nig",
@@ -412,7 +425,7 @@ process_speakers([
 {
     "name":"Mark Gray",
     "member": "markgray",
-    "twitter": "markrgray",    
+    "twitter": "markrgray",
     "location": "Cambridge, United Kingdom",
     "lat": 52.2430959,
     "lng": 0.4227286,
@@ -425,7 +438,7 @@ process_speakers([
 {
     "name":"Mark Seemann",
     "member": "ploeh",
-    "twitter": "ploeh",    
+    "twitter": "ploeh",
     "location": "Copenhagen, Denmark",
     "lat": 55.670340,
     "lng": 12.536719,
@@ -438,7 +451,7 @@ process_speakers([
 {
     "name":"Mathias Brandewinder",
     "member": "brandewinder",
-    "twitter": "brandewinder",    
+    "twitter": "brandewinder",
     "location": "San Francisco, CA, United States",
     "lat": 37.7833,
     "lng": -122.4167,
@@ -487,7 +500,7 @@ process_speakers([
     "travel-distance": 200,
     "bio": "Sr. Software Developer at OPSI Systems",
     "talks": [
-                "Introduction to F#", 
+                "Introduction to F#",
                 "F# in Enterprise Applications",
                 "Data Exploration with F#",
                 "Literate Programming with F#"
@@ -505,7 +518,7 @@ process_speakers([
     "travel-distance": 10000,
     "bio": "Sr. Software Engineer & F# trainer/evangelist for Jet.com",
     "talks": [
-                "Is Functional Programming just a fad?", 
+                "Is Functional Programming just a fad?",
                 "Chaos Testing at Jet with F# and Azure",
                 "Patterns and practices for real-world event-driven microservices",
                 "Building Reactive Services using Functional Programming",
@@ -538,7 +551,7 @@ process_speakers([
 {
     "name":"Reed Copsey",
     "member": "reedcopsey",
-    "twitter": "reedcopsey",    
+    "twitter": "reedcopsey",
     "location": "Bellingham, WA, United States",
     "lat": 48.7482375,
     "lng": -122.4792122,
@@ -557,10 +570,10 @@ process_speakers([
     "travel-zone": "Tennessee, Kentucky, Georgia, North Carolina, South Carolina",
     "travel-distance": 300,
     "bio": "F# and Functional Advocate. Founder of FunctionalKnox. http://reidevans.tech",
-    "talks": [ 
-        "A Developer's Journey from Object Oriented to Functional Programming", 
-        "An Intro to Real World Programming with F#", 
-        "Are you still telling the computer how to count? - An introduction to Higher Order Functions" 
+    "talks": [
+        "A Developer's Journey from Object Oriented to Functional Programming",
+        "An Intro to Real World Programming with F#",
+        "Are you still telling the computer how to count? - An introduction to Higher Order Functions"
     ],
     "tags": [ "type providers", "computation expressions", "clean code", "architecture" ]
 },
@@ -729,7 +742,7 @@ process_speakers([
 {
     "name":"William (Bill) Berry",
     "member": "williamberryiii",
-    "twitter": "williamberryiii",    
+    "twitter": "williamberryiii",
     "location": "Irvine, CA, United States",
     "lat": 33.6694444,
     "lng": -117.8222222,
