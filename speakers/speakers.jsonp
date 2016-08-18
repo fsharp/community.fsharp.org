@@ -329,7 +329,7 @@ process_speakers([
 {
     "name":"Jeremy Abbott",
     "member": "jeremyabbott",
-    "twitter": "@mrjabbott",
+    "twitter": "mrjabbott",
     "location": "Shreveport, LA, USA",
     "lat": 32.5137169,
     "lng": -93.7515042,
@@ -345,7 +345,7 @@ process_speakers([
 {
     "name":"Jeremy Bellows",
     "member": "jeremybellows",
-    "twitter": "@jeremybellows",
+    "twitter": "jeremybellows",
     "location": "Denver, CO, USA",
     "lat": 39.980341,
     "lng": -104.800554,
