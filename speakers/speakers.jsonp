@@ -343,6 +343,22 @@ process_speakers([
     "tags": [ "introduction", "mobile", "xamarin", "web", "suave" ]
 },
 {
+    "name":"Jeremy Bellows",
+    "member": "jeremybellows",
+    "twitter": "@jeremybellows",
+    "location": "Denver, CO, USA",
+    "lat": 39.980341,
+    "lng": -104.800554,
+    "travel-zone": "Mid West USA",
+    "travel-distance": 1000,
+    "bio": "Software Engineer | Entrepreneur | Aspiring Wizard - I love working with teams, learning new ideas, and teaching!",
+    "talks": [
+        "Functional Programming for Object Oriented Programmers",
+        "Functional Programming for the Front End",
+        "Testing the Web with Canopy" ],
+    "tags": [ "web", "suave", "functional", "testing", "UI" ]
+},
+{
     "name":"Jonathan Wood",
     "member": "jwood",
     "twitter": "jwood",
