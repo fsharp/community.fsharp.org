@@ -426,6 +426,19 @@ process_speakers([
     "tags": [ "open source", "tooling", "web" ]
 },
 {
+    "name": "Magnus H&auml;rlin",
+    "member": "mharlin",
+    "twitter": "MagnusHarlin",
+    "location": "Gothenburg, Sweden",
+    "lat": 57.702653,
+    "lng":  11.963317,
+    "travel-zone": "Within 1 hours travel from Gothenburg, Stockholm with assistance",
+    "travel-distance": 100,
+    "bio": "Developer, architect and speaker at Squeed",
+    "talks": [ "F# introduction", "F# for C# developers", "Property based testing with FsCheck" ],
+    "tags": [ "Introduction", "Property based testing", "F# Make (Fake)" ]
+},
+{
     "name": "Marcus Griep",
     "member": "neoeinstein",
     "twitter": "neoeinstein",
