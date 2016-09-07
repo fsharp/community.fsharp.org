@@ -426,6 +426,19 @@ process_speakers([
     "tags": [ "open source", "tooling", "web" ]
 },
 {
+    "name":"Kunjan Dalal",
+    "member": "kunjee",
+    "twitter": "kunjee",
+    "location": "Pune, India",
+    "lat": 18.5195700,
+    "lng": 73.8553500,
+    "travel-zone": "India",
+    "travel-distance": 1000,
+    "bio": "Organizor of Pune Functional Language Meetup, Love everything related to Cloud, Web and Mobile",
+    "talks": [],
+    "tags": [ "Web", "Mobile", "Cloud" ]
+},
+{
     "name": "Magnus H&auml;rlin",
     "member": "mharlin",
     "twitter": "MagnusHarlin",
@@ -808,18 +821,5 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
-},
-{
-    "name":"Kunjan Dalal",
-    "member": "kunjee",
-    "twitter": "kunjee",
-    "location": "Pune, India",
-    "lat": 18.5195700,
-    "lng": 73.8553500,
-    "travel-zone": "India",
-    "travel-distance": 1000,
-    "bio": "Organizor of Pune Functional Language Meetup, Love everything related to Cloud, Web and Mobile",
-    "talks": [],
-    "tags": [ "Web", "Mobile", "Cloud" ]
 }
 ]);
