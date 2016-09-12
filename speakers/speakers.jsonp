@@ -738,6 +738,19 @@ process_speakers([
     "tags": [ "F#" ]
 },
 {
+    "name":"Tamizhvendan S",
+    "member":"tamizhvendan",
+    "twitter":"tamizhvendan",
+    "location":"Chennai, India",
+    "lat": 12.975971,
+    "lng": 80.221209,
+    "travel-zone": "India",
+    "travel-distance": 1000,
+    "bio": "Tamizh is a Pragmatic, Passionate and Polyglot Programmer. He started his programming journey at the age of 12, and the passion has not left him since then. He has a wealth of experience in solving complex problems using different programming languages and technologies. F#, Node.js, Golang, Haskell are some of his favorites. Tamizh is a functional programming evangelist and authored a book "F# Applied", a practical guide for web development in F# using Suave.",
+    "talks": [ "Rethinking State Management", "Intellisense for your intimidating data", "Let's create MiniSuave"],
+    "tags": [ "fsharp", "suave", "polyglot", "full-stack"]
+},
+{
     "name":"Tomas Jansson",
     "member": "tomasjansson",
     "location": "Oslo, Norway",
