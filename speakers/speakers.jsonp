@@ -766,6 +766,22 @@ process_speakers([
     "tags": [ "web", "suave", "fake" ]
 },
 {
+    "name": "Tomasz Heimowski",
+    "member": "theimowski",
+    "twitter": "theimowski",
+    "location": "Gdansk, Poland",
+    "lat": 54.374207,
+    "lng": 18.603380,
+    "travel-zone": "Poland",
+    "travel-distance": 500,
+    "bio": "Tomasz is a passionate developer whose main areas of interest are F# and Functional Programming in general. As a Software Engineer at IHS Markit he tackles problems from various domains. In his free time, apart from contributing to OSS projects and learning new tech stuff, he enjoys lifting weights as well as dancing.",
+    "talks": [
+        "Introduction to F#",
+        "Property-based testing with F#"
+        "F# - Take your process to the next level" ],
+    "tags": [ "introduction", "property-based testing" ]
+},
+{
     "name":"Tomasz Jaskula",
     "member": "tjaskula",
     "twitter": "tjaskula",
