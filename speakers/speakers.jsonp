@@ -777,7 +777,7 @@ process_speakers([
     "bio": "Tomasz is a passionate developer whose main areas of interest are F# and Functional Programming in general. As a Software Engineer at IHS Markit he tackles problems from various domains. In his free time, apart from contributing to OSS projects and learning new tech stuff, he enjoys lifting weights as well as dancing.",
     "talks": [
         "Introduction to F#",
-        "Property-based testing with F#"
+        "Property-based testing with F#",
         "F# - Take your process to the next level" ],
     "tags": [ "introduction", "property-based testing" ]
 },
