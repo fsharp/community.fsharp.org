@@ -224,6 +224,18 @@ process_speakers([
     "tags" : [ "ui", "cloud", "big data", "olap" ]
 },
 {
+    "name":"Eugene Tolmachev",
+    "member": "et1975",
+    "location": "Toronto, Canada",
+    "lat": 43.597000,
+    "lng": -79.632417,
+    "travel-zone": "Canada",
+    "travel-distance": 2000,
+    "bio": "Principal Architect @ Prolucid, F#unctional Toronto meetup co-organizer and an endofunctor tourist",
+    "talks": ["events: distributed programming made easy"],
+    "tags": [ "event stream processing", "FsShelter", "fable-elmish" ]
+},
+{
     "name":"Felienne Hermans",
     "member": "felienne",
     "twitter": "Felienne",
