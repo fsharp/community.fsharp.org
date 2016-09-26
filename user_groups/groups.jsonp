@@ -678,7 +678,7 @@ process_groups([
     "location":"San Francisco, CA, United States",
     "contact":"Mathias Brandewinder",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"SFSharp is the home base for the F# Community in San Francisco. We love functional programming, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other.",
     "lat":37.7922076,
     "lng":-122.4027293
