@@ -7,6 +7,7 @@ process_groups([
     "location":"Berlin, Germany",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"",
     "lat":52.543924,
     "lng":13.4400774
@@ -17,6 +18,7 @@ process_groups([
     "location":"Athens, Greece",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Our goal is to promote the usage of functional programming and especially F# (FSharp) in Greece.",
     "lat":37.9784,
     "lng":23.78192
@@ -27,6 +29,7 @@ process_groups([
     "location":"Austin, TX, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This is a group for growing and building an F# community in Austin as well as the functional programming community in general. We welcome people from all backgrounds, and all levels of expertise. We will have interesting presentations, but also group coding sessions where we can share experiences, tips and have a good time. Functional programming is on the rise, and has a lot to offer. We will do our best to help everyone to be a part of it!",
     "lat":30.26861,
     "lng":-97.74049
@@ -37,6 +40,7 @@ process_groups([
     "location":"Barcelona, Spain",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anyone interested in the F# programming language. We will discuss a wide variety of topics related to programming with F#, and developers of all skill levels and backgrounds are welcome.",
     "lat":41.39479,
     "lng":2.1487679
@@ -47,6 +51,7 @@ process_groups([
     "location":"Bergen, Norway",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Bergen IT Shift, Bitshift, is an independent user group for developers and architects. The goal of Bitshift is to share experience with tools and technologies.",
     "lat":60.390813,
     "lng":5.3176238
@@ -57,6 +62,7 @@ process_groups([
     "location":"Cambridge, United Kingdom",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Camdug is a Cambridge Based community developer group who's primary goal is to connect great developers, and let great learning and sharing happen...and get out the way. Mostly pub socials, hack days, coding DoJo's,  and unconference events.",
     "lat":52.1975728,
     "lng":0.126567
@@ -67,6 +73,7 @@ process_groups([
     "location":"Chennai, India",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Chennai F#ers is a meetup group that aims to bring likeminded local F# enthusiasts together to learn, play, and explore the F# language and ecosystem. Topics include: - Essentials of functional programming and F# - Assessing what kind of projects F# is well suited for - or not - Using F# alongside other languages and libraries - Asynchronous and parallel programming - Data visualisation - Scientific programming - Numerical methods and optimisation - Financial modelling - Domain Driven Design - Reactive Programming Programmers of all skill levels and backgrounds are welcome.",
     "lat":13.057714,
     "lng":80.252891
@@ -77,6 +84,7 @@ process_groups([
     "location":"Chicago, IL, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"The Chicago F# Users group is dedicated to the advancement of the F# language throughout the Chicago area. If you are curious (or skeptical) about the F# language, regardless of your level of expertise with it, you are welcome! We would like to meet regularly to present solutions to real world problems that can be addressed through the use of F#.",
     "lat":41.8788515,
     "lng":-87.6364782
@@ -87,6 +95,7 @@ process_groups([
     "location":"Independence, OH, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"The Cleveland F# Programmers Special Interest Group (F# SIG) is for programmers who work in and/or are interested in learning the F# language. F# is Microsoft's entry in the fast-growing world of functional programming. Compared to other programming languages F# code is often simpler and more intuitive, yet like any language it takes some time and practice to learn F#. The F# SIG gives programmers at all skill levels a monthly opportunity to learn about the language and how others are using it, improve their skills and share their knowledge in a relaxed, cooperative environment . The group meetings consist of mini-presentations by members, group programming exercises, and informal discussions. The audience ranges from F# experts to those developers that are getting their first glimpse of F#.",
     "lat":41.396197,
     "lng":-81.661822
@@ -97,6 +106,7 @@ process_groups([
     "location":"Virtual Group, Global",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Wherever you might be, Community for F# makes great F# content available to you, and provides resources so that you can organize your own local user group. We stream talks online, and make presentation recordings available. We also provide material that you can use in your own meetings, as well as advice on how to grow a dynamic local community. Check out our website at c4fsharp.net, or find us on Twitter as @c4fsharp - and let us know how we can help!",
     "lat":35.939931,
     "lng":-47.776871
@@ -107,6 +117,7 @@ process_groups([
     "location":"Dallas, TX, United States",
     "contact":" Sri",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F# is a functional language developed at Microsoft Research by Don Syme. F# as a language is mature and open source and has the advantage of .net framework and libraries. Most of the functional programming groups are scala or clojure centric. Any one interested in F# in DFW metro area is welcome to join our group.",
     "lat":32.8206645,
     "lng":-96.7313396
@@ -117,6 +128,7 @@ process_groups([
     "location":"Washington, DC, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"",
     "lat":38.9074243,
     "lng":-77.0437868
@@ -127,6 +139,7 @@ process_groups([
     "location":"Detroid, MI, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Anyone interested in learning F# or Functional Programming is welcome to join us.",
     "lat":42.335416,
     "lng":-83.049161
@@ -137,6 +150,7 @@ process_groups([
     "location":"L\u00f3dz, Poland",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Celem grupy jest stworzy\u0107 czas i miejsce dla entuzjast\u00f3w programowania, kt\u00f3rzy chcieliby spotka\u0107 si\u0119 w nietuzinkowym mie\u015bcie \u0141odzi, aby uczy\u0107 si\u0119 od siebie, dzieli\u0107 si\u0119 wiedz\u0105, dyskutowa\u0107, inspirowa\u0107 i czerpa\u0107 rado\u015b\u0107 z programistycznych dyskusji.\r\nGrupa nie ogranicza si\u0119 do jednego j\u0119zyka, czy platformy, ale traktuje o czymkolwiek, co nas ekscytuje jako programist\u00f3w.",
     "lat":51.7756558,
     "lng":19.4874598
@@ -147,6 +161,7 @@ process_groups([
     "location":"Bristol, UK",
     "contact":"Corwin Pierce-Butler",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for people that are interested in furthering the F# community, we are based in Bristol. Feel free to pop along if you are interested in finding out what F# is about and what it can do for you. We started this group because F# is cool, a powerful language and the F# community is full of fantastic approachable people that are always glad to help.",
     "lat":51.4516632,
     "lng":-2.5989452
@@ -157,6 +172,7 @@ process_groups([
     "location":"Cambridge, UK",
     "contact":"Mark Gray",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Hallo, ciao, konnichiwa, hola, merhaba, bonjour! Cambridge, the spiritual home of F#, and home to the Cambridge F# User Group, we are all about F# and the community. We love F#.",
     "lat":52.2096699,
     "lng":0.1196367
@@ -167,6 +183,7 @@ process_groups([
     "location":"Milano, Italy",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Ciao! Questo gruppo \u00e8 per chiunque sia interessato al linguaggio di programmazione F#, in zona Milano e dintorni. L'obiettivo \u00e8 quello di imparare, giocare ed esplorare il linguaggio F# ed il suo ecosistema. Non importa se si conosca gi\u00e0 F#, chiunque \u00e8 benvenuto.",
     "lat":45.4627338,
     "lng":9.1777323
@@ -177,6 +194,7 @@ process_groups([
     "location":"Oaxaca, Mexico",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Comunidad de usuarios que deseen aportar conocimientos sobre el lenguaje de programaci\u00f3n F#.",
     "lat":17.1577833,
     "lng":-96.2099322
@@ -187,6 +205,7 @@ process_groups([
     "location":"Rio de Janeiro, Brazil",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Grupo de programadores que querem discutir sobre a linguagem F#.",
     "lat":-22.905487,
     "lng":-43.217938
@@ -197,6 +216,7 @@ process_groups([
     "location":"Redmond, WA, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"A group for learning and promoting F# programming language. Programmers of all skill levels and backgrounds are welcome.",
     "lat":47.643326,
     "lng":-121.9983361
@@ -207,6 +227,7 @@ process_groups([
     "location":"Sydney, Australia",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F# is an expressive, functional-first programming language that allows you to write succinct, error-free code on top of .NET and Mono.If you have an interest in F#, functional programming, or are just sick of NullReferenceExceptions, definitely come along to one of our meetings.We plan to have a diverse range of presentations each month that will interest the beginner and expert alike.",
     "lat":-33.866364,
     "lng":151.209046
@@ -217,6 +238,7 @@ process_groups([
     "location":"Bangkok, Thailand",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"\u0e01\u0e25\u0e38\u0e48\u0e21 F# \u0e44\u0e17\u0e22 \u0e40\u0e1b\u0e47\u0e19\u0e01\u0e25\u0e38\u0e48\u0e21\u0e04\u0e19\u0e44\u0e17\u0e22\u0e1c\u0e39\u0e49\u0e2a\u0e19\u0e43\u0e08\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e39\u0e49\u0e41\u0e25\u0e30\u0e2a\u0e19\u0e31\u0e1a\u0e2a\u0e19\u0e38\u0e19\u0e43\u0e2b\u0e49\u0e21\u0e35\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e20\u0e32\u0e29\u0e32 F# \u0e21\u0e32\u0e01\u0e22\u0e34\u0e48\u0e07\u0e02\u0e36\u0e49\u0e19\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
     "lat":13.7246005,
     "lng":100.6331108
@@ -227,6 +249,7 @@ process_groups([
     "location":"Virtual Group, Japan",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F# User Group - Japan \u306f\u3001Microsoft\u304c\u958b\u767a\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u300eF#\u300f\u306e\u30e6\u30fc\u30b6\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3067\u3059\u3002Fortran\u306e\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 F#\u306f\u95a2\u6570\u578b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3092\u8ef8\u3068\u3059\u308b\u3001\u30de\u30eb\u30c1\u30d1\u30e9\u30c0\u30a4\u30e0\u8a00\u8a9e\u3067\u3059\u3002Fortran\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 \u304a\u6c17\u8efd\u306b\u3054\u53c2\u52a0\u304f\u3060\u3055\u3044\uff01\u10da(\u2579\u25e1\u2579\u10da)",
     "lat":43.05945,
     "lng":141.3705
@@ -237,6 +260,7 @@ process_groups([
     "location":"London, United Kingdom",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F#unctional Londoners is a meetup group that aims to bring together Londoners with an interest in functional programming with F#. Topics include: - Essentials of functional programming and F# - Assessing what kind of projects F# is well suited for - or not - Using F# alongside other languages and libraries - Asynchronous and parallel programming - Data visualisation - Scientific programming - Numerical methods and optimisation - Financial modelling",
     "lat":51.5244988,
     "lng":-0.0990986
@@ -247,6 +271,7 @@ process_groups([
     "location":"Toronto, Canada",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F#unctional Toronto Meetup Group aims to bring together F#  and functional language enthusiasts from the Greater Toronto Area. Topics include: - Essentials of functional programming and F# - Using F# alongside other languages and libraries - Data visualization - Scientific programming - Numerical methods and optimization - Financial modelling - including derivative pricing, risk management and actuarial science - Asynchronous and parallel programming",
     "lat":43.6445315,
     "lng":-79.4122633
@@ -257,6 +282,7 @@ process_groups([
     "location":"Tokyo, Japan",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"F#\u306b\u3064\u3044\u3066\u8a71\u3057\u305f\u308a\u3059\u308b\u4f1a\u3067\u3059\u3002\u7279\u306b\u76ee\u7684\u306f\u9650\u5b9a\u3057\u3066\u3044\u306a\u3044\u3086\u308b\u3044\u96c6\u307e\u308a\u3067\u3059\u3002 F#\u306f\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u304c\u958b\u767a\u3057\u305f .NET Framework \u5411\u3051\u306e\u30de\u30eb\u30c1\u30d1\u30e9\u30c0\u30a4\u30e0\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3059\u3002",
     "lat":35.6266104,
     "lng":139.7409874
@@ -267,6 +293,7 @@ process_groups([
     "location":"Amsterdam, Netherlands",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"FP AMS aims to bring together commercial users of functional programming. We want to support and promote functional technologies in the Dutch software industry.",
     "lat":52.3477962,
     "lng":4.8507648
@@ -277,6 +304,7 @@ process_groups([
     "location":"Naples, Italy",
     "contact":"Salvatore Sorrentino",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is aimed to promote and advertise the Functional programming paradigma with F# and .NET.",
     "lat":40.848863,
     "lng":14.2514963
@@ -287,6 +315,7 @@ process_groups([
     "location":"Prague, Czech Republic",
     "contact":"Roman Provaznik",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"FSharping is group of F# enthusiasts based in Czech Republic. Our goal is simple: Constant learning & teaching F#.",
     "lat":50.0836364,
     "lng":14.4480897
@@ -297,6 +326,7 @@ process_groups([
     "location":"Brighton, United Kingdom",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Functional Brighton is a Brighton, UK meetup group that aims to bring together people interested in functional programming. We hope that it will complement London-based groups (eg. the London Scala User Group, Hoodlums, F#unctional Londoners, etc.), giving Londoners an excuse for a trip to the seaside and Brightonians some relief from the train.",
     "lat":50.8268355,
     "lng":-0.136472
@@ -307,6 +337,7 @@ process_groups([
     "location":"Dublin, Ireland",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"This is a group for anyone interested in Functional Programming. All levels of ability and experience are welcome. We complete a short programming problem in a functional language and occasionally hold some workshops. ",
     "lat":53.3404638,
     "lng":-6.2364108
@@ -317,6 +348,7 @@ process_groups([
     "location":"Knoxville, TN, United States",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"The Knoxville Functional Programmers group. Focused on collaborative learning of FP and FP techniques.  We meet bi-weekly in Cedar Bluff with short presentations followed by discussion and Q & A.",
     "lat":35.964668,
     "lng":-83.926453
@@ -327,6 +359,7 @@ process_groups([
     "location":"Tempe, AZ, United States",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Developer Group for Functional Languages (F#, Haskell, Clojure, Erlang, Scheme, Scala, Lisp, etc...) and Programming paradigms in PHX.",
     "lat":33.377826,
     "lng":-111.9759088
@@ -337,6 +370,7 @@ process_groups([
     "location":"Auckland, New Zealand",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Come learn, teach, play with all things FP. We'll see what people are into including some presentations and hack nights to try other cool languages etc. Haskell, Scala, Clojure, Lisp, ML, OCaml, Javascript, Erlang and all the others...",
     "lat":-36.862549,
     "lng":174.7603857
@@ -347,6 +381,7 @@ process_groups([
     "location":"Paris, France",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Learn how to take advantage of F# and .NET platform to develop a real world functional programs If you are beginner or an expert in FP it doesn't matter. You are welcome!",
     "lat":48.8638835,
     "lng":2.3411144
@@ -357,6 +392,7 @@ process_groups([
     "location":"Stockholm, Sweden",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"A user group focusing on functional programming in all of its forms. We meet at different locations in the beautiful city of Stockholm to discuss what we enjoy - functional programming.",
     "lat":59.326142,
     "lng":17.9875455
@@ -367,6 +403,7 @@ process_groups([
     "location":"Charleston, South Carolina",
     "contact":"Heow Goodman",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"A group for developers in South Carolina with an interest in functional programming.",
     "lat":32.8209674,
     "lng":-80.1105633
@@ -377,6 +414,7 @@ process_groups([
     "location":"Johannesburg, South Africa",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anyone interested in software development using F#.",
     "lat":-26.1715215,
     "lng":28.0400245
@@ -387,6 +425,7 @@ process_groups([
     "location":"Houston, TX, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"A group for developers in the Houston area with an interest in the F# programming language. Programmers of all skill levels and backgrounds are welcome.",
     "lat":29.7164467,
     "lng":-95.4152123
@@ -397,6 +436,7 @@ process_groups([
     "location":"Fishers, IN, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This is a group for anyone interested in mobile/desktop/web development with .NET/Xamarin technologies using F#. All skills levels are welcome. I started this group because to meet other developers focusing on F# for cross platform app development.\r\n\r\nIf you are a C#/F# developer interested in learning about F#, then you are encouraged to join. ",
     "lat":39.9606977,
     "lng":-86.0154176
@@ -407,6 +447,7 @@ process_groups([
     "location":"Kyiv, Ukraine",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"?? ?? ????????? ???? ????? ???, ??? ??? ?? ?????? ????????????, ? ??? ??? - ??. ??? ?????? ????, ?? ?????? ????? ?? ?????: ???????????? ???????, ?? ?????????, DDD, CQRS ?? MVC; ???? ???????? - C#, F#, IronPhyton; ??? ??????????, ?????????, NHibernate, ASP.NET MVC ????; ????-??????????; ?????; ????-???????; CI; ????? ??? ?????????? ??????????????, ?????????, ReSharper - ??????? ????-??, ?? ??? ?? ?????? ?????????? .NET ?? ????????.",
     "lat":50.422833,
     "lng":30.505211
@@ -417,6 +458,7 @@ process_groups([
     "location":"Kyiv, Ukraine",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anyone interested in the F# programming language. We'll discuss a wide variety of topics related to programming with F#, and developers of all skill levels and backgrounds are welcome.",
     "lat":50.4223662,
     "lng":30.5059038
@@ -427,6 +469,7 @@ process_groups([
     "location":"Jakarta, Indonesia",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"If you're interested in functional programming languages like Erlang, Clojure, Go, F#, Rust, Haskell, OCaml, Racket, Scheme, LISP, SML, or Scala, then we're the group for you!",
     "lat":-6.237977,
     "lng":106.807509
@@ -437,6 +480,7 @@ process_groups([
     "location":"Centurion, South Africa",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"",
     "lat":-25.8407139,
     "lng":28.209476
@@ -447,6 +491,7 @@ process_groups([
     "location":"Leeds, United Kingdom",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Leeds Code Dojo is a group dedicated to programming. We focus on practical coding sessions, where you can learn by doing.",
     "lat":53.8001536,
     "lng":-1.5591575
@@ -457,6 +502,7 @@ process_groups([
     "location":"Madrid, Spain",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This is a bilingual group for people interested in Functional Programming using F# for any platform: desktop (.NET/Mono), server (ASP.NET), mobile (Xamarin/Windows Phone), web (FunScript/WebSharper) or GPU.\r\n\r\nEste es un grupo bilingue para personas cerca (o no) de Madrid interesadas en la programaci\u00f3n funcional con F# para todo tipo de plataformas: escritorio (.NET/Mono), servidor (ASP.NET), m\u00f3vil (Xamarin/Windows Phone), web (FunScript/WebSharper) o GPU.",
     "lat":40.4248125,
     "lng":-3.6914291
@@ -467,6 +513,7 @@ process_groups([
     "location":"Melbourne, Australia",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"We are a group of people interested in functional programming. This ranges from academic discussions around type systems right through to demonstrations of software we've developed using practical functional languages. At our meetups we usually have two or three talks and some pizzas before heading out to a local pub for some drinks and more conversation. People of all experience levels are welcome. If you've never done FP before and are curious to see what it's about, or looking to figure out where to start then come along. If you've done some FP then we'd love to hear and see what you've gotten up to. Finally if you're a pro please come along and share your knowledge and engage in some invigorating discussions.",
     "lat":-37.8165517,
     "lng":144.9637537
@@ -477,6 +524,7 @@ process_groups([
     "location":"Minsk, Belarus",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for everyone interested in functional programming and the F# programming language.",
     "lat":53.8913147,
     "lng":27.5373157
@@ -487,6 +535,7 @@ process_groups([
     "location":"Copenhagen, Denmark",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"M\u00f8degruppe for \u0192unktionelle K\u00f8benhavnere vil pr\u00f8ve p\u00e5 at f\u00e5 flere og flere software projekter til at tage udgangspunkt i funktionelle programmeringssprog.\r\n\r\nVi har prim\u00e6rt fokus p\u00e5 F# og Haskell, men andre funktionelle programmeringssprog som Scala, Lisp, Erlang, Clojure, OCaml, osv. er mere end velkommen.\r\n\r\nVi forventer at m\u00f8des minimum 6 gange om \u00e5ret, hvis ikke flere, for at udveksle erfaringer ved bruget af de funktionelle programmeringssprog i software projekter som skulle v\u00e6re i/eller p\u00e5 vej til produktion.",
     "lat":55.705963,
     "lng":12.534632
@@ -497,6 +546,7 @@ process_groups([
     "location":"Nashville, TN, United States",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Interested in functional programming (e.g. Clojure, Erlang, F# Haskell, Lisp, OCaml...)? In the Nashville-area?\r\n\r\nDandy! Come join us. We are a curious and welcoming group. All skill-levels, platforms, backgrounds & languages welcome. Show off your favorite functional language and pose questions to the group.\r\n\r\nWe meet each month for a lab (think three hour code camp). There we have a projector, WIFI, coffee, and assorted munchies.",
     "lat":36.1570572,
     "lng":-86.7679073
@@ -507,6 +557,7 @@ process_groups([
     "location":"Nashville, TN, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anyone, and everyone, who has an interest in F#. Based out of Nashville (TN), we meet on the second Tuesday of every month. We also hold code sprints once a quarter.\n\nPlease follow us on Twitter: @NashFSharp",
     "lat":36.178052,
     "lng":-86.751143
@@ -517,6 +568,7 @@ process_groups([
     "location":"Cambridge, MA, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anyone interested in the F# programming language. We'll discuss a wide variety of topics related to programming with F#, and developers of all skill levels and backgrounds are welcome.",
     "lat":42.3625848,
     "lng":-71.0853501
@@ -527,6 +579,7 @@ process_groups([
     "location":"New York, NY, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"A group for both learning functional programming and exploring the limits of the F# programming language. Programmers of all skill levels and backgrounds are welcome.",
     "lat":40.7565374,
     "lng":-73.9896843
@@ -537,6 +590,7 @@ process_groups([
     "location":"Oslo, Norway",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Oslo Socially Functional (Programmers) is a meetup group for programmers that like functional programming and related topics. It is shamelessly modeled on NYC's Socially Functional (Functional Alcoholics), which is a hilarious pun except when people see it out of context and think you have a drinking problem. We will have hacking sessions and presentations with around the Oslo area. If you have an idea for a good topic or an awesome bar we can sit and hack, post it!",
     "lat":59.9187905,
     "lng":10.7548428
@@ -547,6 +601,7 @@ process_groups([
     "location":"Oslo, Norway",
     "contact":"Tomas Jansosn",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"OsloFSharp is a group that has the focus of helping grow the F# community in Oslo. Everyone is welcomed, beginners and expert. We are welcoming the community to engage and try to have as many local speakers as possible. We will try to have a balance between hands-on workshops and coding dojos and regular presentations.",
     "lat":59.9187905,
     "lng":10.731657
@@ -557,6 +612,7 @@ process_groups([
     "location":"Ottawa, On, Canada",
     "contact":"Tim Thornton",
     "fsharp_group":false,
+    "affiliate":false,
     "description": "A meetup for programmers, enthusiasts, and the curious in all functional programming languages. Network and learn new languages, techniques, and concepts in the functional programming space. ",
     "lat":45.4215,
     "lng":-75.6972
@@ -567,6 +623,7 @@ process_groups([
     "location":"Perth, Australia",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"This group is for programmers who use functional and related programming languages (like Haskell, Erlang, OCaml, F#, lisp, etc.), functional programming techniques (map-reduce, persistent data-structures, monad, etc.) and related technologies. We'll meet, discuss and learn about functional programming with others from Perth and Western Australia.",
     "lat":-31.9557125,
     "lng":115.8590269
@@ -577,6 +634,7 @@ process_groups([
     "location":"Portland, OR, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group is for anybody interested in learning more, or teaching about, the .NET language F#. We welcome beginners and experts alike who are excited to share their experiences and learn more about the people using this brilliant language. I'd love to meet you and get to know others who are just as excited about this language and the work that they do!",
     "lat":45.4831904,
     "lng":-122.804219
@@ -587,6 +645,7 @@ process_groups([
     "location":"Prague, Czech Republic",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"This meetup group was created as a group for functional programming enthusiasts, programmers interested in different programming languages which support FP paradigm: Erlang, Clojure, Haskell, OCaml, Scala, Lisp, etc. and different FP related topics and techniques. Join us if you are interested in FP, you want to share some knowledge, you want to know smth/more about FP, you want to meet people who interested in FP. Let's make FP community. We would like to be community powered, which means members can suggest meetup formats, topics and so on. Any suggestions are welcome.",
     "lat":50.0763994,
     "lng":14.4519588
@@ -597,6 +656,7 @@ process_groups([
     "location":"Shreveport, LA, USA",
     "contact":"Jeremy Abbott or Ryan Rousseau",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Red River .NET User Group serves developers in and around the Shreveport-Bossier area. We meet the 3rd Wednesday of every month at the LSUS Technology Center. We will have free food and door prizes at each meeting, as well as a presentation on a topic relevant to .NET developers.",
     "lat":32.4285844,
     "lng":-93.7042912
@@ -607,6 +667,7 @@ process_groups([
     "location":"Essen, Germany",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"",
     "lat":51.454647,
     "lng":7.0100205
@@ -617,6 +678,7 @@ process_groups([
     "location":"San Francisco, CA, United States",
     "contact":"Mathias Brandewinder",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"SFSharp is the home base for the F# Community in San Francisco. We love functional programming, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other.",
     "lat":37.7922076,
     "lng":-122.4027293
@@ -627,6 +689,7 @@ process_groups([
     "location":"Mountain View, CA, United States",
     "contact":"Mathias Brandewinder",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Silicon Valley F# is home for the F# language users community in the Bay Area / Silicon Valley. We love functional programming with F#, on .NET and Mono, and aim to create a fun community, where we can all learn from each other and grow together, in a respectful and inclusive manner! ",
     "lat":37.410483,
     "lng":-122.059758
@@ -637,6 +700,7 @@ process_groups([
     "location":"Singapore, Singapore",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"This group is for all the Singapore-based lambda lovers who are passionate about sharing their knowledge and experience in their functional programming lives.",
     "lat":1.3054183,
     "lng":103.7898178
@@ -647,6 +711,7 @@ process_groups([
     "location":"Budapest, Hungary",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Meet with other local FPers and share your experiences with F#, Haskell, OCaml, Erlang, Scala, or your other favourite FP language. We are looking to discuss good ideas, ways to utilize FP to its best, and commercial uses. Whether you are from academia or industry, if you are an FPer at heart your place is here!",
     "lat":47.4812134,
     "lng":19.1303031
@@ -657,6 +722,7 @@ process_groups([
     "location":"Helsinki, Finland",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This is a group of developers in the Greater Helsinki Area, Finland, who have an interest in the F# programming language. Novices and experts are both welcome.",
     "lat":60.1684096,
     "lng":24.9402382
@@ -667,6 +733,7 @@ process_groups([
     "location":"Durham, NC, United States",
     "contact":"Jamie Dixon",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"A get together for .NET developers of all levels. We usually have a high powered awesome speaker discussing one of the latest technologies, best practices, and anything else of interest to our craft.",
     "lat":35.87813,
     "lng":-78.84666
@@ -677,6 +744,7 @@ process_groups([
     "location":"Lehi, UT, United States",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"This group brings together people who are curious about, interested in or currently coding in F#, from the F# noob, to the hobbyist to the professional F# dev.\r\n\r\nAre you a C# dev that want's to try out a functional language in your current technology stack?  Want to try bring a functional language into a .NET work environment?  F# is a functional first (with some OO stuff) language that compiles to IL just like C#.  You can use the two side by side in different projects in the same solution or use F# exclusively with access to all the .NET framework libraries that you've come to depend on.",
     "lat":40.4296916,
     "lng":-111.8943659
@@ -687,6 +755,7 @@ process_groups([
     "location":"Wellington, New Zealand",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"We meet sporadically to discus Functional Programming of all sorts (Erlang, Haskell, Scala, F#, OCaml, Lisp, Clojure, Scheme, ...).\r\n",
     "lat":-41.2917782,
     "lng":174.7744558
@@ -697,6 +766,7 @@ process_groups([
     "location":"Zurich, Switzerland",
     "contact":"",
     "fsharp_group":true,
+    "affiliate":false,
     "description":"Our goal is to promote the usage of the multi-paradigm programming language F# in Switzerland. IT experts who have a professional or personal interest are cordially invited to join the group. We speak German and English.",
     "lat":47.377779,
     "lng":8.540621
@@ -707,6 +777,7 @@ process_groups([
     "location":"New York, NY, United States",
     "contact":"",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"Socially Functional is a meetup group for programmers that like to chat/scheme/vent about functional programming. It is also known as Functional Alcoholics, which is a hilarious pun except when people see it out of context and think you have a drinking problem. We have weekly hacking sessions at a coffee shop, and bar meetups at fairly random intervals. If you have an idea for a good bar or other venue, post it!",
     "lat":40.7208425,
     "lng":-73.9878434
@@ -717,6 +788,7 @@ process_groups([
     "location":"Pune, Maharashtra, India",
     "contact":"Kunjan Dalal",
     "fsharp_group":false,
+    "affiliate":false,
     "description":"This is group for anyone who wanted to learn or already know functional programming. Be it Haskell, Scala, F#, Clojure or even Elm. It is more about learning functional concepts and use it in real life application. That includes but not limited to Research, Machine Learning, Business and Web Applications. It is all about learning and growing community working around functional programming languages. Looking forward to all programming enthusiastic who wanted to learning Functional Concepts and Functional Programming language.",
     "lat":18.5204,
     "lng":73.8567
