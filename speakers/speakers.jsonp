@@ -451,6 +451,19 @@ process_speakers([
     "tags": [ "Web", "Mobile", "Cloud" ]
 },
 {
+    "name":"Leo Lorenzo Luis",
+    "member": "leolorenzoluis",
+    "twitter": "leolorenzoluis",
+    "location": "Washington DC, DC, United States",
+    "lat": 38.9047,
+    "lng": -77.0164,
+    "travel-zone": "United States",
+    "travel-distance": 100,
+    "bio": "F#ictional Character",
+    "talks": [ "Introduction to Machine Learning with F#" ],
+    "tags": [ "Cloud", "Enterprise Development", "Machine Learning", "Distributed Systems", "Data Visualization", "Microservices" ]
+},
+{
     "name": "Magnus H&auml;rlin",
     "member": "mharlin",
     "twitter": "MagnusHarlin",
