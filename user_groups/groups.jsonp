@@ -706,6 +706,17 @@ process_groups([
     "lng":103.7898178
 },
 {
+    "name":"SpringsFP",
+    "website":"https://www.meetup.com/SpringsFP/",
+    "location":"Colorado Springs, CO, United States",
+    "contact":"Isak Sky",
+    "fsharp_group":false,
+    "affiliate":false,    
+    "description":"SpringsFP is an inclusive group interested in learning and writing software using functional languages such as Haskell, Elm, Purescript, et al.",
+    "lat":38.9903,
+    "lng":-104.8027
+},
+{
     "name":"The Budapest Functional Programming Group",
     "website":"http://www.meetup.com/fp-bud/",
     "location":"Budapest, Hungary",
@@ -792,17 +803,5 @@ process_groups([
     "description":"This is group for anyone who wanted to learn or already know functional programming. Be it Haskell, Scala, F#, Clojure or even Elm. It is more about learning functional concepts and use it in real life application. That includes but not limited to Research, Machine Learning, Business and Web Applications. It is all about learning and growing community working around functional programming languages. Looking forward to all programming enthusiastic who wanted to learning Functional Concepts and Functional Programming language.",
     "lat":18.5204,
     "lng":73.8567
-},
-{
-    "name":"SpringsFP",
-    "website":"https://www.meetup.com/SpringsFP/",
-    "location":"Colorado Springs, CO, United States",
-    "contact":"Isak Sky",
-    "fsharp_group":false,
-    "affiliate":false,    
-    "description":"SpringsFP is an inclusive group interested in learning and writing software using functional languages such as Haskell, Elm, Purescript, et al.",
-    "lat":38.9903,
-    "lng":-104.8027
 }
-
 ]);
