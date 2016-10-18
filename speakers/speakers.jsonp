@@ -294,6 +294,19 @@ process_speakers([
     "tags": [ "cloud", "distributed systems", "clean code", "web", "big data" ]
 },
 {
+    "name":"Isak Sky",
+    "member": "isaksky",
+    "twitter": "isaksky",
+    "location": "Colorado Springs, CO, United States",
+    "lat": 38.9903,
+    "lng": -104.8027,
+    "travel-zone": "Around Colorado, sometimes visits Europe",
+    "travel-distance": 150,
+    "bio": "Software Engineer who loves to push his programming languages to the limit",
+    "talks": ["RouteProvider"],
+    "tags": [ "type-providers", "GraphQL", "metaprogramming", "property based testing" ]
+},
+{
     "name":"Ivan Towlson",
     "member": "itowlson",
     "twitter": "ppog_penguin",
