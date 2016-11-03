@@ -172,7 +172,7 @@ process_groups([
     "location":"Cambridge, UK",
     "contact":"Mark Gray",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"Hallo, ciao, konnichiwa, hola, merhaba, bonjour! Cambridge, the spiritual home of F#, and home to the Cambridge F# User Group, we are all about F# and the community. We love F#.",
     "lat":52.2096699,
     "lng":0.1196367
