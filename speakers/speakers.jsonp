@@ -336,8 +336,7 @@ process_speakers([
     "talks": [ "The business case for F#", "Injecting F# into your line of business application", "ML on IoT" ],
     "tags": [ "machine learning", "enterprise development", "IoT" ]
 },
-{
-    "name":"J&eacute;r&eacute;mie Chassaing",
+{    "name":"J&eacute;r&eacute;mie Chassaing",
     "member": "thinkb4coding",
     "location": "Paris, France",
     "lat": 48.86206,
@@ -382,6 +381,23 @@ process_speakers([
         "Functional Programming for the Front End",
         "Testing the Web with Canopy" ],
     "tags": [ "web", "suave", "functional", "testing", "UI" ]
+},
+{
+    "name":"John Cavnar-Johnson",
+    "member": "john.cavnar-johnson",
+    "twitter": "williamockhamtx",
+    "location": "Houston, TX, USA",
+    "lat": 29.7919775,
+    "lng": -95.26447,
+    "travel-zone": "Texas USA",
+    "travel-distance": 800,
+    "bio": "Software Architect | Consultant | Grandfather",
+    "talks": [
+        "Enterprise Development is Dysfunctional: We've Got A Cure",
+        "Why Try F#?",
+        "Functional Architecture for the Modern Enterprise"
+        ],
+    "tags": [ "Enterprise Development", "System Architecture", "Functional" ]
 },
 {
     "name":"Jonathan Wood",
