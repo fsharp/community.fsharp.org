@@ -128,7 +128,7 @@ process_groups([
     "location":"Washington, DC, United States",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"",
     "lat":38.9074243,
     "lng":-77.0437868
