@@ -571,6 +571,19 @@ process_speakers([
     "tags": [ "type providers", "FsCheck", "training" ]
 },
 {
+    "name": "M&aring;rten R&aring;nge",
+    "member": "marten_range",
+    "twitter": "marten_range",
+    "location": "Gothenburg, Sweden",
+    "lat": 57.702653,
+    "lng":  11.963317,
+    "travel-zone": "Gothenburg, Oslo, Malmo, Stockholm with assistance",
+    "travel-distance": 400,
+    "bio": "Generalist and Product Guardian at Ericsson AB",
+    "talks": [ "Coroutines", "Functional Patterns", "F# Formlets", "Property based testing" ],
+    "tags": [ "Concurrency", "F# Compiler", "Functional Patterns", "Performance", "Property based testing" ]
+},
+{
     "name":"Paulmichael Blasucci",
     "member": "pblasucci",
     "location": "Jersey City, NJ, United States",
