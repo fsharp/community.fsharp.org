@@ -35,6 +35,16 @@ process_groups([
     "lng":-97.74049
 },
 {
+    "name":"Bangalore F# Meetup",
+    "website":"https://www.meetup.com/Bangalore-fsharp-Programming-Meetup",
+    "location":"Bangalore, India",
+    "contact":"Abhiranjan",
+    "fsharp_group":true,
+    "description":"Bangalore F# is home for the F# language users in the Bangalore, India. We love functional programming with F#, on .NET and Mono, and aim to create a fun community, where we can all learn from each other and grow together, in a respectful and inclusive manner! ",
+    "lat":12.95396,
+    "lng":77.4908519
+},
+{
     "name":"Barcelona F# Meetup Group",
     "website":"http://www.meetup.com/FSharp-Barcelona/",
     "location":"Barcelona, Spain",
