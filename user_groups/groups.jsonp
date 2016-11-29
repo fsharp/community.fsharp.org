@@ -237,7 +237,7 @@ process_groups([
     "location":"Sydney, Australia",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"F# is an expressive, functional-first programming language that allows you to write succinct, error-free code on top of .NET and Mono.If you have an interest in F#, functional programming, or are just sick of NullReferenceExceptions, definitely come along to one of our meetings.We plan to have a diverse range of presentations each month that will interest the beginner and expert alike.",
     "lat":-33.866364,
     "lng":151.209046
