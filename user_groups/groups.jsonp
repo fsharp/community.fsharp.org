@@ -199,6 +199,17 @@ process_groups([
     "lng":9.1777323
 },
 {
+    "name":"F# Paris",
+    "website":"http://www.meetup.com/Functional-Programming-in-F/",
+    "location":"Paris, France",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"Learn how to take advantage of F# and .NET platform to develop a real world functional programs If you are beginner or an expert in FP it doesn't matter. You are welcome!",
+    "lat":48.8638835,
+    "lng":2.3411144
+},
+{
     "name":"F# Programming User Group - Oaxaca",
     "website":"http://www.meetup.com/F-Programming-User-Group-Oaxaca/",
     "location":"Oaxaca, Mexico",
@@ -384,17 +395,6 @@ process_groups([
     "description":"Come learn, teach, play with all things FP. We'll see what people are into including some presentations and hack nights to try other cool languages etc. Haskell, Scala, Clojure, Lisp, ML, OCaml, Javascript, Erlang and all the others...",
     "lat":-36.862549,
     "lng":174.7603857
-},
-{
-    "name":"Functional Programming in F#",
-    "website":"http://www.meetup.com/Functional-Programming-in-F/",
-    "location":"Paris, France",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"Learn how to take advantage of F# and .NET platform to develop a real world functional programs If you are beginner or an expert in FP it doesn't matter. You are welcome!",
-    "lat":48.8638835,
-    "lng":2.3411144
 },
 {
     "name":"Functional Programming Stockholm",
