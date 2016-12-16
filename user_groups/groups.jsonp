@@ -397,6 +397,17 @@ process_groups([
     "lng":174.7603857
 },
 {
+    "name":"Functional Programming in Israel",
+    "website":"https://www.meetup.com/LetFPIL/",
+    "location":"Tel Aviv-Yafo, Israel",
+    "contact":"",
+    "fsharp_group":false,
+    "affiliate":false,
+    "description":"This is a group for anyone interested in learning about Functional Programming, and for those interested in advancing and promoting its state in Israel. We aim to increase developer awareness to the tools offered by the FP approach, and to (indirectly) create more job opportunities where FP enthusiast can make living while enjoying their work.",
+    "lat":32.0647537,
+    "lng":34.7741061
+},
+{
     "name":"Functional Programming Stockholm",
     "website":"https://groups.google.com/forum/#!aboutgroup/functional-programming-sthlm",
     "location":"Stockholm, Sweden",
