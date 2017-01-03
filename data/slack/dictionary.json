@@ -1,0 +1,14 @@
+[
+    {
+        "key": "ce",
+        "name": "Computation Expressions",
+        "more": "https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/computation-expressions",
+        "description": "Computation expressions in F# provide a convenient syntax for writing computations that can be sequenced and combined using control flow constructs and bindings."
+    },    
+    {
+        "key": "srtp",
+        "name": "Statically Resolved Type Parameters",
+        "more": "https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/generics/statically-resolved-type-parameters",
+        "description": "A statically resolved type parameter is a generic type parameter that is replaced with an actual type at compile time instead of at run time. They are preceded by a caret (^) symbol."
+    }
+]
