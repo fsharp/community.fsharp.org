@@ -22,6 +22,14 @@
         }]
     },   
     {
+        "key": "du",
+        "defs": [{
+            "name": "Discriminated Unions",
+            "more": "https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/discriminated-unions",
+            "description": "Discriminated unions provide support for values that can be one of a number of named cases, possibly each with different values and types. Discriminated unions are useful for heterogeneous data; data that can have special cases, including valid and error cases; data that varies in type from one instance to another; and as an alternative for small object hierarchies. In addition, recursive discriminated unions are used to represent tree data structures."
+        }]
+    },   
+    {
         "key": "srtp",
         "defs": [{
             "name": "Statically Resolved Type Parameters",
