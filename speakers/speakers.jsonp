@@ -571,6 +571,19 @@ process_speakers([
     "tags": [ "type providers", "FsCheck", "training" ]
 },
 {
+    "name":"Mikhail Shilkov",
+    "member": "mikhailshilkov",
+    "twitter": "mikhailshilkov",
+    "location": "Eindhoven, NL",
+    "lat": 51.414098,
+    "lng": 5.458805,
+    "travel-zone": "Netherlands, Belgium, West of Germany",
+    "travel-distance": 300,
+    "bio": "Developer; functional and reactive programming, stream processing and event-driven data-intensive applications",
+    "talks": [ "Introduction to F#", "The role of Functional Programming in Modern Applications" ],
+    "tags": [ "beginners", "functional programming", "fsharp" ]
+},
+{
     "name": "M&aring;rten R&aring;nge",
     "member": "marten_range",
     "twitter": "marten_range",
