@@ -292,7 +292,7 @@ process_groups([
     "location":"Toronto, Canada",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"F#unctional Toronto Meetup Group aims to bring together F#  and functional language enthusiasts from the Greater Toronto Area. Topics include: - Essentials of functional programming and F# - Using F# alongside other languages and libraries - Data visualization - Scientific programming - Numerical methods and optimization - Financial modelling - including derivative pricing, risk management and actuarial science - Asynchronous and parallel programming",
     "lat":43.6445315,
     "lng":-79.4122633
