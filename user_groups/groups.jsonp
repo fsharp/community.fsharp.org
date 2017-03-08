@@ -336,7 +336,7 @@ process_groups([
     "location":"Prague, Czech Republic",
     "contact":"Roman Provaznik",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"FSharping is group of F# enthusiasts based in Czech Republic. Our goal is simple: Constant learning & teaching F#.",
     "lat":50.0836364,
     "lng":14.4480897
