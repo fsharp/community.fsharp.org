@@ -930,5 +930,18 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
+},
+{
+    "name": "Tomas Petricek",
+    "member": "tomasp",
+    "twitter": "tpetricek",
+    "location": "Cambridge, UK",
+    "lat": 52.202544,
+    "lng": 0.131237,
+    "travel-zone": "World-wide",
+    "travel-distance": 20000,
+    "bio": "Partner at fsharpWorks, author of Real-World Functional Programming, computer scientist",
+    "talks": [ "Visualizing Olympic Medals with F# and Fable", "Data Science with FsLab", "Celebrating New Year's Eve with F# and Suave", "Observables, Events, Asynchronous Sequences and Other Wild Animals", "History and philosophy of types", "(And various other topics, the above is mainly for illustration!)" ],
+    "tags": [ "fundamentals", "functional programming", "asynchronous", "fable", "web", "data science", "data visualization" ]
 }
 ]);
