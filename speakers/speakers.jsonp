@@ -265,6 +265,19 @@ process_speakers([
     "tags": [ "Type Providers", "Basics", "Web api", "Data Structures" ]
 },
 {
+    "name":"Gien Verschatse",
+    "member": "selketjah",
+    "twitter": "selketjah",
+    "location": "Ghent, Belgium",
+    "lat": 51.053895,
+    "lng": 3.723410,
+    "travel-zone": "World-wide",
+    "travel-distance": 20000,
+    "bio": "F# developer at Green Island, Co-Organizor of SoCraTesBE and DDDBE, bookworm",
+    "talks": [ "Playing nice together: how to use F# in a brownfield project." ],
+    "tags": [ "F#", "practical advice" ]
+},
+{
     "name":"Giuseppe Maggiore",
     "member": "g_maggiore",
     "twitter": "g_maggiore",
