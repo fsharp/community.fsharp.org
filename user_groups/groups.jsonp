@@ -496,17 +496,6 @@ process_groups([
     "lng":-1.5591575
 },
 {
-    "name":"Madrid F# Programming Meetup",
-    "website":"http://www.meetup.com/madrid-fsharp/",
-    "location":"Madrid, Spain",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"This is a bilingual group for people interested in Functional Programming using F# for any platform: desktop (.NET/Mono), server (ASP.NET), mobile (Xamarin/Windows Phone), web (FunScript/WebSharper) or GPU.\r\n\r\nEste es un grupo bilingue para personas cerca (o no) de Madrid interesadas en la programaci\u00f3n funcional con F# para todo tipo de plataformas: escritorio (.NET/Mono), servidor (ASP.NET), m\u00f3vil (Xamarin/Windows Phone), web (FunScript/WebSharper) o GPU.",
-    "lat":40.4248125,
-    "lng":-3.6914291
-},
-{
     "name":"Melbourne Functional User Group (MFUG)",
     "website":"http://www.meetup.com/Melbourne-Functional-User-Group-MFUG/",
     "location":"Melbourne, Australia",
