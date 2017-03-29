@@ -738,17 +738,6 @@ process_groups([
     "lng":-78.84666
 },
 {
-    "name":"Utah F#",
-    "website":"http://www.meetup.com/Utah-FSharp/",
-    "location":"Lehi, UT, United States",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"This group brings together people who are curious about, interested in or currently coding in F#, from the F# noob, to the hobbyist to the professional F# dev.\r\n\r\nAre you a C# dev that want's to try out a functional language in your current technology stack?  Want to try bring a functional language into a .NET work environment?  F# is a functional first (with some OO stuff) language that compiles to IL just like C#.  You can use the two side by side in different projects in the same solution or use F# exclusively with access to all the .NET framework libraries that you've come to depend on.",
-    "lat":40.4296916,
-    "lng":-111.8943659
-},
-{
     "name":"Wellington FP",
     "website":"http://www.meetup.com/Wellington-FP/",
     "location":"Wellington, New Zealand",
