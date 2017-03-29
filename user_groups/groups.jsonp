@@ -584,17 +584,6 @@ process_groups([
     "lng":-73.9896843
 },
 {
-    "name":"Oslo \"Socially Functional Programmers\"",
-    "website":"http://www.meetup.com/Oslo-Socially-Functional/",
-    "location":"Oslo, Norway",
-    "contact":"",
-    "fsharp_group":false,
-    "affiliate":false,
-    "description":"Oslo Socially Functional (Programmers) is a meetup group for programmers that like functional programming and related topics. It is shamelessly modeled on NYC's Socially Functional (Functional Alcoholics), which is a hilarious pun except when people see it out of context and think you have a drinking problem. We will have hacking sessions and presentations with around the Oslo area. If you have an idea for a good topic or an awesome bar we can sit and hack, post it!",
-    "lat":59.9187905,
-    "lng":10.7548428
-},
-{
     "name":"OsloFSharp",
     "website":"http://www.meetup.com/OsloFSharp/",
     "location":"Oslo, Norway",
