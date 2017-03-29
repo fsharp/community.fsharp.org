@@ -221,17 +221,6 @@ process_groups([
     "lng":-96.2099322
 },
 {
-    "name":"F# Programming User Group - Rio de Janeiro",
-    "website":"http://www.meetup.com/F-Programming-User-Group-Rio-de-Janeiro/",
-    "location":"Rio de Janeiro, Brazil",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"Grupo de programadores que querem discutir sobre a linguagem F#.",
-    "lat":-22.905487,
-    "lng":-43.217938
-},
-{
     "name":"F# Seattle User Group",
     "website":"http://www.meetup.com/FSharpSeattle/",
     "location":"Redmond, WA, United States",
@@ -375,17 +364,6 @@ process_groups([
     "lng":-83.926453
 },
 {
-    "name":"Functional Phoenix",
-    "website":"http://www.meetup.com/funcphx/",
-    "location":"Tempe, AZ, United States",
-    "contact":"",
-    "fsharp_group":false,
-    "affiliate":false,
-    "description":"Developer Group for Functional Languages (F#, Haskell, Clojure, Erlang, Scheme, Scala, Lisp, etc...) and Programming paradigms in PHX.",
-    "lat":33.377826,
-    "lng":-111.9759088
-},
-{
     "name":"Functional Programming Auckland",
     "website":"http://www.meetup.com/Functional-Programming-Auckland/",
     "location":"Auckland, New Zealand",
@@ -518,17 +496,6 @@ process_groups([
     "lng":-1.5591575
 },
 {
-    "name":"Madrid F# Programming Meetup",
-    "website":"http://www.meetup.com/madrid-fsharp/",
-    "location":"Madrid, Spain",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"This is a bilingual group for people interested in Functional Programming using F# for any platform: desktop (.NET/Mono), server (ASP.NET), mobile (Xamarin/Windows Phone), web (FunScript/WebSharper) or GPU.\r\n\r\nEste es un grupo bilingue para personas cerca (o no) de Madrid interesadas en la programaci\u00f3n funcional con F# para todo tipo de plataformas: escritorio (.NET/Mono), servidor (ASP.NET), m\u00f3vil (Xamarin/Windows Phone), web (FunScript/WebSharper) o GPU.",
-    "lat":40.4248125,
-    "lng":-3.6914291
-},
-{
     "name":"Melbourne Functional User Group (MFUG)",
     "website":"http://www.meetup.com/Melbourne-Functional-User-Group-MFUG/",
     "location":"Melbourne, Australia",
@@ -604,17 +571,6 @@ process_groups([
     "description":"A group for both learning functional programming and exploring the limits of the F# programming language. Programmers of all skill levels and backgrounds are welcome.",
     "lat":40.7565374,
     "lng":-73.9896843
-},
-{
-    "name":"Oslo \"Socially Functional Programmers\"",
-    "website":"http://www.meetup.com/Oslo-Socially-Functional/",
-    "location":"Oslo, Norway",
-    "contact":"",
-    "fsharp_group":false,
-    "affiliate":false,
-    "description":"Oslo Socially Functional (Programmers) is a meetup group for programmers that like functional programming and related topics. It is shamelessly modeled on NYC's Socially Functional (Functional Alcoholics), which is a hilarious pun except when people see it out of context and think you have a drinking problem. We will have hacking sessions and presentations with around the Oslo area. If you have an idea for a good topic or an awesome bar we can sit and hack, post it!",
-    "lat":59.9187905,
-    "lng":10.7548428
 },
 {
     "name":"OsloFSharp",
@@ -769,17 +725,6 @@ process_groups([
     "description":"A get together for .NET developers of all levels. We usually have a high powered awesome speaker discussing one of the latest technologies, best practices, and anything else of interest to our craft.",
     "lat":35.87813,
     "lng":-78.84666
-},
-{
-    "name":"Utah F#",
-    "website":"http://www.meetup.com/Utah-FSharp/",
-    "location":"Lehi, UT, United States",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"This group brings together people who are curious about, interested in or currently coding in F#, from the F# noob, to the hobbyist to the professional F# dev.\r\n\r\nAre you a C# dev that want's to try out a functional language in your current technology stack?  Want to try bring a functional language into a .NET work environment?  F# is a functional first (with some OO stuff) language that compiles to IL just like C#.  You can use the two side by side in different projects in the same solution or use F# exclusively with access to all the .NET framework libraries that you've come to depend on.",
-    "lat":40.4296916,
-    "lng":-111.8943659
 },
 {
     "name":"Wellington FP",
