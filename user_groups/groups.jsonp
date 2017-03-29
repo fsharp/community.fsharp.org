@@ -364,17 +364,6 @@ process_groups([
     "lng":-83.926453
 },
 {
-    "name":"Functional Phoenix",
-    "website":"http://www.meetup.com/funcphx/",
-    "location":"Tempe, AZ, United States",
-    "contact":"",
-    "fsharp_group":false,
-    "affiliate":false,
-    "description":"Developer Group for Functional Languages (F#, Haskell, Clojure, Erlang, Scheme, Scala, Lisp, etc...) and Programming paradigms in PHX.",
-    "lat":33.377826,
-    "lng":-111.9759088
-},
-{
     "name":"Functional Programming Auckland",
     "website":"http://www.meetup.com/Functional-Programming-Auckland/",
     "location":"Auckland, New Zealand",
