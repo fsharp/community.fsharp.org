@@ -221,17 +221,6 @@ process_groups([
     "lng":-96.2099322
 },
 {
-    "name":"F# Programming User Group - Rio de Janeiro",
-    "website":"http://www.meetup.com/F-Programming-User-Group-Rio-de-Janeiro/",
-    "location":"Rio de Janeiro, Brazil",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"Grupo de programadores que querem discutir sobre a linguagem F#.",
-    "lat":-22.905487,
-    "lng":-43.217938
-},
-{
     "name":"F# Seattle User Group",
     "website":"http://www.meetup.com/FSharpSeattle/",
     "location":"Redmond, WA, United States",
