@@ -166,6 +166,17 @@ process_groups([
     "lng":19.4874598
 },
 {
+    "name":"F# |> Bogotá",
+    "website":"https://www.meetup.com/FSharp-Bogota/",
+    "location":"Bogota, Columbia",
+    "contact":"Nicolás Herrera",
+    "fsharp_group":true,
+    "affiliate":false,
+    "description":"Este grupo es de y para todas las personas interesadas en aprender o enseñar F#.",
+    "lat":4.6486259,
+    "lng":-74.2478904
+},
+{
     "name":"F# |> Bristol",
     "website":"http://www.meetup.com/FSharpBristol/",
     "location":"Bristol, UK",
