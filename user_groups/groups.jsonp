@@ -168,7 +168,7 @@ process_groups([
 {
     "name":"F# |> Bogotá",
     "website":"https://www.meetup.com/FSharp-Bogota/",
-    "location":"Bogota, Columbia",
+    "location":"Bogota, Colombia",
     "contact":"Nicolás Herrera",
     "fsharp_group":true,
     "affiliate":true,
