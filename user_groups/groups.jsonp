@@ -199,6 +199,17 @@ process_groups([
     "lng":0.1196367
 },
 {
+    "name":"F# |> Quito",
+    "website":"http://www.meetup.com/FSharp-Quito/",
+    "location":"Quito, Ecuador",
+    "contact":"Edgar S&aacute;nchez",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"We love functional programming and the F# programming language, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other. Programmers of all skill levels and backgrounds are welcome.",
+    "lat":-0.1862504,
+    "lng":-78.5706248
+},
+{
     "name":"F# Milano",
     "website":"http://www.meetup.com/FSharp-Milano/",
     "location":"Milano, Italy",
