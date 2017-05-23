@@ -287,6 +287,17 @@ process_groups([
     "lng":141.3705
 },
 {
+    "name":"F# Vancouverite",
+    "website":"https://www.meetup.com/FSharpVancouver/",
+    "location":"Vancouver, BC, Canada",
+    "contact":"Sam Bamgboye",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"We are an F# Software Foundation Affiliated User Group in Vancouver, BC. Come learn F# with us!",
+    "lat":49.2578263,
+    "lng":-123.1939438
+},
+{
     "name":"F#unctional Londoners Meetup Group",
     "website":"http://www.meetup.com/FSharpLondon/",
     "location":"London, United Kingdom",
