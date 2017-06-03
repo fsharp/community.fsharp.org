@@ -625,6 +625,22 @@ process_speakers([
     "tags": [ "polyglot solutions", "enterprise systems", "domain driven design", "tools and tecniques" ]
 },
 {
+    "name":"Pierre Irrmann",
+    "member": "pirrmann",
+    "location": "Paris, France",
+    "lat": 48.86206,
+    "lng": 2.343179,
+    "travel-zone": "France",
+    "travel-distance": 200,
+    "bio": "F# addict, I oscillate between pragmatic advice and amazing useless stuff",
+    "talks": [
+        "Introduction to F#",
+        "Some advice to F# beginners",
+        "Me too, I used to only code in C# at work",
+        "Ask me anything about computation expressions" ],
+    "tags": [ "beginners", "pragmatism", "computation expressions", "DSL", "amazing useless" ]
+},
+{
     "name":"Quintus Marais",
     "member": "quintusmarais",
     "twitter": "quintusm",
