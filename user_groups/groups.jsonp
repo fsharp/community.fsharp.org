@@ -474,6 +474,17 @@ process_groups([
     "lng":-86.0154176
 },
 {
+    "name":"Kharkiv F# User Group",
+    "website":"https://www.facebook.com/groups/kharkivfsharp/",
+    "location":"Kharkiv, Ukraine",
+    "contact":"Alexander Sugak",
+    "fsharp_group":true,
+    "affiliate":false,
+    "description":"A group for developers in Kharkiv area with interest in F# programming language and related stack. We gather once a month to share our experience and discuss .Net/F#/FP topics",
+    "lat":50.045705,
+    "lng":36.282486
+},
+{
     "name":"Kiev ALT.NET",
     "website":"http://kievalt.net/",
     "location":"Kyiv, Ukraine",
