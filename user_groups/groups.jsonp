@@ -29,7 +29,7 @@ process_groups([
     "location":"Austin, TX, United States",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"This is a group for growing and building an F# community in Austin as well as the functional programming community in general. We welcome people from all backgrounds, and all levels of expertise. We will have interesting presentations, but also group coding sessions where we can share experiences, tips and have a good time. Functional programming is on the rise, and has a lot to offer. We will do our best to help everyone to be a part of it!",
     "lat":30.26861,
     "lng":-97.74049
