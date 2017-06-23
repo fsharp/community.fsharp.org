@@ -540,6 +540,17 @@ process_groups([
     "lng":-1.5591575
 },
 {
+    "name":"Manchester F# User Group",
+    "website":"https://www.meetup.com/Manchester-F-User-Group/",
+    "location":"Manchester, United Kingdom",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":false,
+    "description":"Whether it's the day job, or you just have an interest, we are a user group for F# in the Manchester area. We welcome all skills levels, from ninja to curious, and aim to meet on the 4th Tuesday of every month at the Code Computerlove event space NQ.",
+    "lat":53.48245,
+    "lng":-2.23449
+},
+{
     "name":"Melbourne Functional User Group (MFUG)",
     "website":"http://www.meetup.com/Melbourne-Functional-User-Group-MFUG/",
     "location":"Melbourne, Australia",
