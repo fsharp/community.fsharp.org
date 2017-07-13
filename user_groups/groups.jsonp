@@ -166,6 +166,17 @@ process_groups([
     "lng":19.4874598
 },
 {
+    "name":"F# |> BH",
+    "website":"https://www.meetup.com/fsharpbh/",
+    "location":"Belo Horizonte, Brazil",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"Venha aprender e ensinar programação funcional com F#.",
+    "lat":-19.926409,
+    "lng":-43.932438
+},
+{
     "name":"F# |> Bogotá",
     "website":"https://www.meetup.com/FSharp-Bogota/",
     "location":"Bogota, Colombia",
