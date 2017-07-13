@@ -666,7 +666,7 @@ process_groups([
     "location":"Portland, OR, United States",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"This group is for anybody interested in learning more, or teaching about, the .NET language F#. We welcome beginners and experts alike who are excited to share their experiences and learn more about the people using this brilliant language. I'd love to meet you and get to know others who are just as excited about this language and the work that they do!",
     "lat":45.4831904,
     "lng":-122.804219
