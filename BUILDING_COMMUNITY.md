@@ -5,6 +5,36 @@
 *This document is intended as a starting point to build up a community-maintained guide to create and grow a local community, 
 by collecting resources, tips and tricks. Please feel free to add, remove or edit any way you see fit!*
 
+## Infrastructure
+
+[Meetup](https://meetup.com) is probably the best way to go in terms of notification and member management. It isn’t free, but is fairly cheap, and gives you a way to publish and manage your events, and gain visibility to a large community, because members of other groups will potentially see your events as well. Make sure you use relevant tags for your group, beyond simply F# (functional programming, .NET, open source, …); that helps to become visible to people with shared interests. 
+
+> It is fairly common to see a much smaller number of people showing up that the registration (one half no-shows is not uncommon) - don’t get disheartened!
+
+> One Meetup account can host up to three groups at no extra cost, so consider pairing up with other user groups in your region, if the cost is prohibitive.
+
+The F# Software Foundation has an [Affiliated User Group program](http://community.fsharp.org/affiliated_user_group_program), which aims at assisting F# user groups. One of the benefits of the program is that Meetup costs are covered.
+
+
+## Where to meet
+
+The biggest challenge for a group is often to find a venue. There are multiple options. 
+
+Some companies like to host meetups (often because they need more visibility, and maybe want to recruit / attract talent), and they usually have a good infrastructure for presentations (projector, wifi). It’s useful then to also talk with the host and understand what they want out of it!
+
+Some cities have hacker spaces, which can be a great way to meet people from other language communities, and increase awareness that your group exists.
+
+Schools and community centers are also an option. 
+
+> Try to make sure the person who is hosting your meetup is having a good time, too. They might not even be that interested in F#, and are hosting you on their free time. If possible, consider giving them a couple of minutes to talk about their company/organization in the beginning. And... and thank-you and round of applause goes a long way :)
+
+Finally, for smaller events, like [coding breakfasts](http://brandewinder.com/2014/09/21/fsharp-coding-breakfasts/), meeting in a public space like a cafe can work just fine. 
+
+> If people come for the first time to a meeting, they might not know anybody yet. Make it easy for attendees to find your group (for instance, add a note "how to find us" in the Meetup description), and look out for people who seem to be searching for someone.
+
+
+
+
 
 From [Functional Group Survival Guide](https://docs.google.com/document/d/1EqNOMgLiPKJdtsj9dO7iJCl85iXWO38MKhaPqKgW4j4/edit):  
 
