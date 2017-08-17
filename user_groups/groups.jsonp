@@ -166,6 +166,17 @@ process_groups([
     "lng":19.4874598
 },
 {
+    "name":"dotnetsheff",
+    "website":"https://dotnetsheff.co.uk",
+    "location":"Sheffield, England",
+    "contact":"Kevin Smith",
+    "fsharp_group":false,
+    "affiliate":false,
+    "description":"dotnetsheff is a monthly user group focused on software development, particularly in the .NET ecosystem. We welcome people with interests in software development of all ages and levels of experience.",
+    "lat":53.379027,
+    "lng":-1.466180
+},
+{
     "name":"F# |> BH",
     "website":"https://www.meetup.com/fsharpbh/",
     "location":"Belo Horizonte, Brazil",
