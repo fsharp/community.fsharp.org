@@ -232,6 +232,17 @@ process_groups([
     "lng":-78.5706248
 },
 {
+    "name":"F# DRCongo",
+    "website":"https://www.meetup.com/FSharp-DRCongo/",
+    "location":"Kinshasa, Democratic Republic of the Congo",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"F# DRCongo is the home base for the F# Community in the Democratic Republic of the Congo. We love functional programming, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other.",
+    "lat":-4.4171783,
+    "lng":15.3094888
+},
+{
     "name":"F# Milano",
     "website":"http://www.meetup.com/FSharp-Milano/",
     "location":"Milano, Italy",
