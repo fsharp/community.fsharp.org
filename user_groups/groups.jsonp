@@ -336,7 +336,7 @@ process_groups([
     "location":"London, United Kingdom",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"F#unctional Londoners is a meetup group that aims to bring together Londoners with an interest in functional programming with F#. Topics include: - Essentials of functional programming and F# - Assessing what kind of projects F# is well suited for - or not - Using F# alongside other languages and libraries - Asynchronous and parallel programming - Data visualisation - Scientific programming - Numerical methods and optimisation - Financial modelling",
     "lat":51.5244988,
     "lng":-0.0990986
