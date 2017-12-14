@@ -367,17 +367,18 @@ process_speakers([
     "name":"Jeremy Abbott",
     "member": "jeremyabbott",
     "twitter": "mrjabbott",
-    "location": "Shreveport, LA, USA",
-    "lat": 32.5137169,
-    "lng": -93.7515042,
-    "travel-zone": "South USA",
-    "travel-distance": 500,
-    "bio": "I'm a developer at Shreveport development shop Praeses, where I work as a project architect, developer, and recruiter. I work hard to deliver clean, extensible, and maintainable solutions to customers' business problems. I'm passionate about software as a profession and craft and work to cultivate that mindset in my team members through constant training.",
+    "location": "Portland, OR, USA",
+    "lat": ‎45.512794,
+    "lng": -122.679565,
+    "travel-zone": "Pacific Northwest, USA",
+    "travel-distance": 200,
+    "bio": "🌈Human, ✊🏼‏activist, software engineer, functional programming enthusiast, occassional conference speaker.",
     "talks": [
         "Intro to F# (aka Currying in a Hurry",
         "F# Advanced Topics (aka Currying in a Hurrty pt. 2)",
-        "Functional Web Applications with Suave" ],
-    "tags": [ "introduction", "mobile", "xamarin", "web", "suave" ]
+        "Functional Web Applications with Suave",
+        "Being Productive with the F# Stack of Happiness " ],
+    "tags": [ "introduction", "mobile", "web", "suave", "fable", "azure" ]
 },
 {
     "name":"Jeremy Bellows",
