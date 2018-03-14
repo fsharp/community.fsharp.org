@@ -211,7 +211,7 @@ process_groups([
 },
 {
     "name":"F# |> Cambridge",
-    "website":"http://www.meetup.com/Cambridge-F-Community/",
+    "website":"https://www.meetup.com/Cambridge-F-Community/",
     "location":"Cambridge, UK",
     "contact":"Mark Gray",
     "fsharp_group":true,
@@ -222,7 +222,7 @@ process_groups([
 },
 {
     "name":"F# |> Quito",
-    "website":"http://www.meetup.com/FSharp-Quito/",
+    "website":"https://www.meetup.com/FSharp-Quito/",
     "location":"Quito, Ecuador",
     "contact":"Edgar S&aacute;nchez",
     "fsharp_group":true,
@@ -230,6 +230,17 @@ process_groups([
     "description":"We love functional programming and the F# programming language, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other. Programmers of all skill levels and backgrounds are welcome.",
     "lat":-0.1862504,
     "lng":-78.5706248
+},
+{
+    "name":"F# |> Vienna",
+    "website":"https://www.meetup.com/FSharp-Vienna/",
+    "location":"Vienna, Austria",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"Welcome! This is an F# meetup group that meets in Vienna. The goal is to bring likeminded local F# enthusiasts together to learn, play, and explore the F# language and ecosystem. Programmers of all skill levels and backgrounds are welcome.",
+    "lat":48.1355058,
+    "lng":16.3110101
 },
 {
     "name":"F# DRCongo",
