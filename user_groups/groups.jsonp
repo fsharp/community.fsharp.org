@@ -83,8 +83,8 @@ process_groups([
     "location":"Chennai, India",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
-    "description":"Chennai F#ers is a meetup group that aims to bring likeminded local F# enthusiasts together to learn, play, and explore the F# language and ecosystem. Topics include: - Essentials of functional programming and F# - Assessing what kind of projects F# is well suited for - or not - Using F# alongside other languages and libraries - Asynchronous and parallel programming - Data visualisation - Scientific programming - Numerical methods and optimisation - Financial modelling - Domain Driven Design - Reactive Programming Programmers of all skill levels and backgrounds are welcome.",
+    "affiliate":true,
+    "description":"Chennai F#ers is a meetup group that aims to bring like-minded local F# enthusiasts together to learn, play, and explore the F# language and ecosystem. Topics include: - Essentials of functional programming and F# - Assessing what kind of projects F# is well suited for - or not - Using F# alongside other languages and libraries - Asynchronous and parallel programming - Data visualisation - Scientific programming - Numerical methods and optimisation - Financial modelling - Domain Driven Design - Reactive Programming Programmers of all skill levels and backgrounds are welcome.",
     "lat":13.057714,
     "lng":80.252891
 },
