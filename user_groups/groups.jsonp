@@ -408,6 +408,17 @@ process_groups([
     "lng":14.4480897
 },
 {
+    "name":"FSharpLang.ru",
+    "website":"http://fsharplang.ru/",
+    "location":"Moscow, Russian Federation",
+    "contact":"Roman Melnikov",
+    "fsharp_group":true,
+    "affiliate":false,
+    "description":"fsharplang.ru - Russian fsharp usergroup",
+    "lat":55.771185,
+    "lng":37.605397
+},
+{
     "name":"Functional Brighton",
     "website":"http://www.meetup.com/Functional-Brighton/",
     "location":"Brighton, United Kingdom",
