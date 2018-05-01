@@ -221,6 +221,17 @@ process_groups([
     "lng":0.1196367
 },
 {
+    "name":"F# |> Osnabrück",
+    "website":"https://www.meetup.com/FSharpOsnabruck/",
+    "location":"Osnabrück, Germany",
+    "contact":"Roman Sachse",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"F# |> Osnabrück is the home base for the F# Community in Osnabrück. We love functional programming, and do our best to create a respectful, inclusive and fun community, where we can all learn from each other.",
+    "lat":52.2779658,
+    "lng":7.9852189
+},
+{
     "name":"F# |> Quito",
     "website":"https://www.meetup.com/FSharp-Quito/",
     "location":"Quito, Ecuador",
