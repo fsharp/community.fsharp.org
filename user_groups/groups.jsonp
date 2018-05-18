@@ -749,6 +749,17 @@ process_groups([
     "lng":14.4519588
 },
 {
+    "name":"Pune Functional Programming Meetup",
+    "website":"http://www.meetup.com/Pune-Functional-Programming-Meetup/",
+    "location":"Pune, Maharashtra, India",
+    "contact":"Kunjan Dalal",
+    "fsharp_group":false,
+    "affiliate":false,
+    "description":"This is group for anyone who wanted to learn or already know functional programming. Be it Haskell, Scala, F#, Clojure or even Elm. It is more about learning functional concepts and use it in real life application. That includes but not limited to Research, Machine Learning, Business and Web Applications. It is all about learning and growing community working around functional programming languages. Looking forward to all programming enthusiastic who wanted to learning Functional Concepts and Functional Programming language.",
+    "lat":18.5204,
+    "lng":73.8567
+},
+{
     "name":"Red River .NET User Group",
     "website":"http://rrdnug.com",
     "location":"Shreveport, LA, USA",
@@ -864,7 +875,7 @@ process_groups([
     "location":"Zurich, Switzerland",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"Our goal is to promote the usage of the multi-paradigm programming language F# in Switzerland. IT experts who have a professional or personal interest are cordially invited to join the group. We speak German and English.",
     "lat":47.377779,
     "lng":8.540621
@@ -879,16 +890,5 @@ process_groups([
     "description":"Socially Functional is a meetup group for programmers that like to chat/scheme/vent about functional programming. It is also known as Functional Alcoholics, which is a hilarious pun except when people see it out of context and think you have a drinking problem. We have weekly hacking sessions at a coffee shop, and bar meetups at fairly random intervals. If you have an idea for a good bar or other venue, post it!",
     "lat":40.7208425,
     "lng":-73.9878434
-},
-{
-    "name":"Pune Functional Programming Meetup",
-    "website":"http://www.meetup.com/Pune-Functional-Programming-Meetup/",
-    "location":"Pune, Maharashtra, India",
-    "contact":"Kunjan Dalal",
-    "fsharp_group":false,
-    "affiliate":false,
-    "description":"This is group for anyone who wanted to learn or already know functional programming. Be it Haskell, Scala, F#, Clojure or even Elm. It is more about learning functional concepts and use it in real life application. That includes but not limited to Research, Machine Learning, Business and Web Applications. It is all about learning and growing community working around functional programming languages. Looking forward to all programming enthusiastic who wanted to learning Functional Concepts and Functional Programming language.",
-    "lat":18.5204,
-    "lng":73.8567
 }
 ]);
