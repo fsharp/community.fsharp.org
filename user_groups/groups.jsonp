@@ -353,6 +353,17 @@ process_groups([
     "lng":-123.1939438
 },
 {
+    "name":"F#P Eindhoven Meetup Group",
+    "website":"https://www.meetup.com/F-P-Eindhoven/",
+    "location":"Eindhoven, Netherlands",
+    "contact":"",
+    "fsharp_group":true,
+    "affiliate":false,
+    "description":"Knowledge-sharing sessions in and around Eindhoven for everyone interested in or already practicing functional programming with a slight focus on F#.",
+    "lat":51.500125,
+    "lng":5.459329
+},
+{
     "name":"F#unctional Londoners Meetup Group",
     "website":"http://www.meetup.com/FSharpLondon/",
     "location":"London, United Kingdom",
