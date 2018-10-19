@@ -870,6 +870,17 @@ process_groups([
     "lng":-78.84666
 },
 {
+    "name":"Triangle F#",
+    "website":"https://www.meetup.com/Triangle-F/",
+    "location":"Raleigh, NC, United States",
+    "contact":"Alan Ball",
+    "fsharp_group":true,
+    "affiliate":true,
+    "description":"Available to all experience levels, we are the user group for F# in the Triangle area. If you've never heard of F#, would like to learn more, or if you're wondering where those new C# features keep coming from come on by. Inclusiveness, empathy, effective communication, and productivity are our guiding principles.",
+    "lat":35.9026362,
+    "lng":-78.8649538
+},
+{
     "name":"Wellington FP",
     "website":"http://www.meetup.com/Wellington-FP/",
     "location":"Wellington, New Zealand",
