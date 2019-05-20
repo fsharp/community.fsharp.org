@@ -303,7 +303,7 @@ process_groups([
     "location":"Redmond, WA, United States",
     "contact":"",
     "fsharp_group":true,
-    "affiliate":false,
+    "affiliate":true,
     "description":"A group for learning and promoting F# programming language. Programmers of all skill levels and backgrounds are welcome.",
     "lat":47.643326,
     "lng":-121.9983361
