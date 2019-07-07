@@ -520,6 +520,19 @@ process_speakers([
     "tags": [ "Introduction", "Property based testing", "F# Make (Fake)" ]
 },
 {
+    "name": "Marcel Ritter",
+    "member": "mritter"
+    "twitter": "gileoooo",
+    "location": "Innsbruck, Austria",
+    "lat": 47.2636571,
+    "lng": 11.3457979,
+    "travel-zone": "Austria and neighboring countries, or really cheap available flights",
+    "travel-distance": 500,
+    "bio": "Background in Computer Science (scientific visualization, geometry, and game development), Civil Engineering (mechanics, simulation), and software development (Clockstone GmbH and AHM GmbH)",
+    "talks": [ "Sphere Tessellation in OpenGL and F#", "Eye Tracking Analysis via F#", "Property based testing with FsCheck" ],
+    "tags": [ "Introduction", "OpenGL", "Data Analysis" ]
+},
+{
     "name": "Marcus Griep",
     "member": "neoeinstein",
     "twitter": "neoeinstein",
