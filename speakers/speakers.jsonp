@@ -986,5 +986,18 @@ process_speakers([
     "bio": "Tech translator (English to Japanese, and vice versa). One of a organizer of F# meetup in Japan.",
     "talks": [],
     "tags": [ "fundamentals" ]
+},
+{
+    "name":"Sang Kil Cha",
+    "member": "sangkilc",
+    "twitter": "sangkilc",
+    "location": "Daejeon, Korea",
+    "lat": 36.372175,
+    "lng": 127.360399,
+    "travel-zone": "Korea",
+    "travel-distance": 5000,
+    "bio": "Sang Kil Cha is an Assistant Professor of the Computer Science Department at KAIST, Korea. He has started to teach F# in one of his courses. He is current leading various projects written in F#, and he is one of the organizers of F# meetup group in Korea.",
+    "talks": [],
+    "tags": [ "fsharp", "software security" ]
 }
 ]);
