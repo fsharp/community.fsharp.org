@@ -672,17 +672,6 @@ process_groups([
     "lng":-86.7679073
 },
 {
-    "name":"Nashville F# Group",
-    "website":"http://nashfsharp.github.io/org/",
-    "location":"Nashville, TN, United States",
-    "contact":"",
-    "fsharp_group":true,
-    "affiliate":false,
-    "description":"This group is for anyone, and everyone, who has an interest in F#. Based out of Nashville (TN), we meet on the second Tuesday of every month. We also hold code sprints once a quarter.\n\nPlease follow us on Twitter: @NashFSharp",
-    "lat":36.178052,
-    "lng":-86.751143
-},
-{
     "name":"New England F# Users Group",
     "website":"http://www.meetup.com/New-England-F-Users-Group/",
     "location":"Cambridge, MA, United States",
