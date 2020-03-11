@@ -521,7 +521,7 @@ process_speakers([
 },
 {
     "name": "Marcel Ritter",
-    "member": "mritter"
+    "member": "mritter",
     "twitter": "gileoooo",
     "location": "Innsbruck, Austria",
     "lat": 47.2636571,
