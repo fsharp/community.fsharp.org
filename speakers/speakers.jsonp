@@ -585,6 +585,19 @@ process_speakers([
     "tags": [ "machine-learning", "hands-on" ]
 },
 {
+    "name":"Matt Eland",
+    "member": "matteland",
+    "twitter": "IntegerMan",
+    "location": "Columbus, OH, United States",
+    "lat": 39.9619,
+    "lng": -83.0027,
+    "travel-zone": "United States Midwest",
+    "travel-distance": 50,
+    "bio": "Matt teaches .NET, JavaScript, and Java for a living and loves learning new things, building strange applications, and inspiring others to do the same.",
+    "talks": [ "Modeling a Starship in F#" ],
+    "tags": [ "learning", "fsharp", "beginners", "functional programming", "nerd" ]
+},
+{
     "name":"Michael Newton",
     "member": "mavnn",
     "twitter": "mavnn",
