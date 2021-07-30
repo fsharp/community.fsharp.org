@@ -9,8 +9,8 @@ process_groups([
     "fsharp_group":false,
     "affiliate":false,
     "description":"Meetups in Ratingen, Germany usually on last Wednesday of the month. Topics around .NET, related technologies + approaches. F# speakers very welcome! Talks in German or English language.",
-    "lat":51.291470363992325,
-    "lng":6.866999656345194
+    "lat":51.291470,
+    "lng":6.867000
 },
 {
     "name":"ALT.NET Berlin",
