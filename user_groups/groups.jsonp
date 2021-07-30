@@ -2,6 +2,17 @@
 // https://github.com/fsharp/community.fsharp.org/blob/gh-pages/USER_GROUPS.md
 process_groups([
 {
+    "name":".NET Usergroup Rhein/Ruhr",
+    "website":"http://dotnetug.de/",
+    "location":"Ratingen, Germany",
+    "contact":"Kai Timmermann",
+    "fsharp_group":false,
+    "affiliate":false,
+    "description":"Meetups in Ratingen, Germany usually on last Wednesday of the month. Topics around .NET, related technologies + approaches. F# speakers very welcome! Talks in German or English language.",
+    "lat":51.291470,
+    "lng":6.867000
+},
+{
     "name":"ALT.NET Berlin",
     "website":"http://www.altnetberlin.de/",
     "location":"Berlin, Germany",
