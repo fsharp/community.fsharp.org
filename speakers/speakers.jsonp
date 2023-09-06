@@ -598,6 +598,19 @@ process_speakers([
     "tags": [ "learning", "fsharp", "beginners", "functional programming", "nerd" ]
 },
 {
+    "name":"Michael Kohl",
+    "member": "citizen428",
+    "twitter": "citizen428",
+    "location": "Koh Samui, Thailand",
+    "lat": 9.540118616157828,
+    "lng": 100.04685179031826,
+    "travel-zone": "Asia, Oceania, Africa, Europe",
+    "travel-distance": 10000,
+    "bio": "Senior Lead Engineer. FSSF mentorship program mentor. F# fan.",
+    "talks": [ "Intro to F#", "Functional Programming with F#" ],
+    "tags": [ "fsharp", "beginners", "functional programming", "mentorship" ]
+},
+{
     "name":"Michael Newton",
     "member": "mavnn",
     "twitter": "mavnn",
