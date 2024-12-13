@@ -158,6 +158,19 @@ process_speakers([
     "tags": [ ]
 },
 {
+    "name": "Christoffer Ekeroth",
+    "member": "chreke",
+    "twitter": "therealchreke",
+    "location": "Stockholm, Sweden",
+    "lat": 59.339470,
+    "lng": 17.939520,
+    "travel-zone": "World-wide",
+    "travel-distance": 20000,
+    "bio": "Founder of Functional Sofware (https://functionalsoftware.se), software practictioner and functional programming enthusiast. I also run the F# Stockholm Meetup group (https://www.meetup.com/f-stockholm/)",
+    "talks": [ "Building REST APIs with Giraffe", "Head-first F#", "Applicatives for fun(ctor) and profit" ],
+    "tags": [ "web", "functional programming", "rest", "category theory" ]
+},
+{
     "name":"Craig Stuntz",
     "member": "craigstuntz",
     "twitter": "craigstuntz",
